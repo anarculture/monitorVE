@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style data-omelette-print-defaults>
+@media print {
+  @page { margin: 0.5in; }
+  h1, h2, h3, h4, h5, h6 { break-after: avoid; }
+  figure, table, pre, blockquote, img, svg, tr, [class~="card" i] { break-inside: avoid; }
+  img, svg { max-width: 100%; }
+  p { orphans: 3; widows: 3; }
+}
+</style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+<template id="__bundler_thumbnail" data-bg-color="#2b5b63">
+  <svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+    <rect x="330" y="150" width="540" height="500" rx="10" fill="#fbfaf7"/>
+    <rect x="330" y="150" width="540" height="10" fill="#1f4a51"/>
+    <rect x="380" y="215" width="230" height="14" rx="7" fill="#2b5b63"/>
+    <rect x="380" y="255" width="440" height="26" rx="5" fill="#171613"/>
+    <rect x="380" y="295" width="330" height="26" rx="5" fill="#171613"/>
+    <rect x="380" y="360" width="440" height="90" rx="6" fill="#eef3f2" stroke="#dbe4e2" stroke-width="2"/>
+    <rect x="380" y="360" width="4" height="90" fill="#2b5b63"/>
+    <rect x="405" y="385" width="120" height="9" rx="4.5" fill="#2b5b63"/>
+    <rect x="405" y="408" width="380" height="8" rx="4" fill="#b9c6c4"/>
+    <rect x="405" y="425" width="340" height="8" rx="4" fill="#b9c6c4"/>
+    <rect x="380" y="490" width="380" height="8" rx="4" fill="#cfcabf"/>
+    <rect x="380" y="512" width="410" height="8" rx="4" fill="#cfcabf"/>
+    <rect x="380" y="534" width="300" height="8" rx="4" fill="#cfcabf"/>
+    <rect x="380" y="580" width="380" height="8" rx="4" fill="#cfcabf"/>
+    <rect x="380" y="602" width="350" height="8" rx="4" fill="#cfcabf"/>
+  </svg>
+</template>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Libre+Franklin:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  doc-page:not(:defined){visibility:hidden}
+  body{margin:0}
+</style>
+</helmet>
+
+<x-import component-from-global-scope="doc-page" from="./doc-page.js" size="letter" margin="0.9in" hint-size="100%,100%">
+
+<div slot="footer" style="display:flex; justify-content:space-between; align-items:center; font-family:'Libre Franklin',sans-serif; font-size:9.5px; letter-spacing:.04em; color:#8a857a; padding-top:8px; border-top:1px solid #e4e0d7;">
+  <span style="text-transform:uppercase;">Respuesta Civil Autogestionada · Yaracuy</span>
+  <span style="text-transform:uppercase;">Guía técnica</span>
+</div>
+
+<div style="font-family:'Source Serif 4',Georgia,serif; font-size:10.6pt; line-height:1.62; color:#22201c; -webkit-font-smoothing:antialiased;">
+
+  <!-- ============ COVER BLOCK ============ -->
+  <div style="border-top:3px solid #2b5b63; padding-top:20px; margin-bottom:6px;">
+    <div style="font-family:'Libre Franklin',sans-serif; font-size:10.5px; font-weight:600; letter-spacing:.19em; text-transform:uppercase; color:#2b5b63;">Guía técnica · Gestión de riesgo comunitario</div>
+  </div>
+  <h1 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:31px; line-height:1.13; letter-spacing:-.012em; color:#171613; margin:14px 0 0;">Respuesta civil autogestionada tras desastres</h1>
+  <p style="font-family:'Source Serif 4',serif; font-style:italic; font-size:15px; line-height:1.4; color:#57534a; margin:12px 0 0; max-width:44em;">Una guía basada en Sistemas Adaptativos Complejos y voluntariado espontáneo para Yaracuy.</p>
+
+  <div style="display:flex; flex-wrap:wrap; gap:6px 26px; margin:22px 0 4px; font-family:'Libre Franklin',sans-serif; font-size:11px; letter-spacing:.03em; color:#6f6b63;">
+    <span><strong style="color:#2b5b63; font-weight:600;">Región</strong>&nbsp;&nbsp;Yaracuy, Venezuela</span>
+    <span><strong style="color:#2b5b63; font-weight:600;">Marco</strong>&nbsp;&nbsp;CADEM · CAS</span>
+    <span><strong style="color:#2b5b63; font-weight:600;">Alcance</strong>&nbsp;&nbsp;Respuesta y recuperación temprana</span>
+  </div>
+
+  <p style="margin:20px 0 0; max-width:44em; color:#3a382f;">Esta guía sintetiza la evidencia académica revisada por pares sobre voluntariado espontáneo, grupos emergentes y gestión de desastres como sistemas adaptativos complejos, y la traduce en un modelo operativo concreto para comunidades que deben organizar su propia respuesta con o sin la presencia del Estado.</p>
+
+  <!-- ============ 1 · RESUMEN EJECUTIVO ============ -->
+  <div style="margin-top:30px; background:#f2f5f4; border:1px solid #dbe4e2; border-left:3px solid #2b5b63; border-radius:2px; padding:22px 24px;">
+    <div style="font-family:'Libre Franklin',sans-serif; font-size:11px; font-weight:700; letter-spacing:.15em; text-transform:uppercase; color:#2b5b63; margin-bottom:14px;">Resumen ejecutivo</div>
+
+    <div style="display:flex; gap:14px; margin:0 0 13px; align-items:baseline;">
+      <span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:13px; color:#2b5b63; min-width:16px;">1</span>
+      <p style="margin:0;">La evidencia académica es clara: los voluntarios espontáneos y grupos emergentes son la primera y más grande fuerza de respuesta tras un desastre, y aumentan la capacidad de las organizaciones formales. La clave no es controlarlos jerárquicamente, sino aplicar la <strong>autoorganización estructurada</strong> <em>(structured self-organization, Simsa et al. 2019)</em> — darles espacio para autoorganizarse mientras se les provee estructura mínima, metas claras de corto plazo y coordinación.</p>
+    </div>
+
+    <div style="display:flex; gap:14px; margin:0 0 13px; align-items:baseline;">
+      <span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:13px; color:#2b5b63; min-width:16px;">2</span>
+      <p style="margin:0;">Para Yaracuy, el modelo operativo recomendado combina cinco piezas: (1) un <strong>nodo de coordinación ligero</strong> tipo Nishinomiya Volunteer Network (Kobe 1995); (2) un <strong>centro de registro y asignación de voluntarios</strong> con la regla «sin registro no hay asignación»; (3) un <strong>sistema de mapeo e información ciudadana</strong> al estilo #Verificado19S (México 2017); (4) atención explícita a las <strong>cinco áreas prioritarias</strong> de gestión de SV (especificidades locales, coordinación, comunicación, entrenamiento, seguridad); y (5) <strong>salvaguardas de equidad e inclusión</strong> para evitar el sesgo de red social que excluye a los más pobres y desconectados.</p>
+    </div>
+
+    <div style="display:flex; gap:14px; margin:0; align-items:baseline;">
+      <span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:13px; color:#2b5b63; min-width:16px;">3</span>
+      <p style="margin:0;">Fundamento teórico para hablar con autoridad: los desastres se comportan como <strong>sistemas adaptativos complejos</strong> — no lineales, con propiedades emergentes, autoorganización y bucles de retroalimentación — por lo que los modelos rígidos de «comando y control» fallan. El marco <strong>CADEM</strong> traduce esto en principios accionables de decisión descentralizada, coordinación en red y aprendizaje continuo.</p>
+    </div>
+  </div>
+
+  <!-- ============ 2 · HALLAZGOS CLAVE ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 16px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">01</span><span>Hallazgos clave de la evidencia</span></h2>
+
+  <div style="display:flex; gap:14px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">01</span><p style="margin:0;"><strong>Los ciudadanos comunes responden primero — y se quedan.</strong> Whittaker, McLennan &amp; Handmer (2015) lo formulan textualmente: <em>«A pesar de los sistemas de gestión de emergencias altamente especializados y capaces, los ciudadanos comunes son usualmente los primeros en la escena de una emergencia o desastre, y permanecen mucho después de que los servicios oficiales han cesado.»</em> El caso de México 1985 es paradigmático: ante un Estado paralizado (el presidente tardó 36 horas en dirigirse a la nación), la población se autoorganizó masivamente en brigadas de rescate, cocinas populares y estaciones de auxilio.</p></div>
+
+  <div style="display:flex; gap:14px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">02</span><p style="margin:0;"><strong>Los desastres son sistemas complejos, no lineales.</strong> Los desastres son no lineales, con efectos en cascada y comportamientos emergentes; los enfoques jerárquicos lineales fallan. El marco CADEM propone gestionar los desastres como redes adaptativas con decisión descentralizada.</p></div>
+
+  <div style="display:flex; gap:14px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">03</span><p style="margin:0;"><strong>La autoorganización estructurada es crucial.</strong> Simsa et al. (2019) demuestran que <em>«la autoorganización estructurada — es decir, encontrar una relación complementaria adecuada entre autoorganización y coordinación — es crucial para la eficiencia del trabajo de los SV, y para su satisfacción, bienestar y compromiso»</em>, lo que requiere (a) estructuras fluidas que habiliten autonomía, (b) condiciones marco orientadoras y (c) recursos para el cuidado y la coordinación.</p></div>
+
+  <div style="display:flex; gap:14px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">04</span><p style="margin:0;"><strong>Un nodo coordinador ligero funciona sin sofocar la iniciativa.</strong> La Nishinomiya Volunteer Network (Kobe 1995) coordinó voluntarios afiliados y espontáneos sin sofocar su iniciativa.</p></div>
+
+  <div style="display:flex; gap:14px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">05</span><p style="margin:0;"><strong>La tecnología cívica puede escalar masivamente.</strong> #Verificado19S (México 2017) superó las 500 personas en calle y oficinas y, a diez días del terremoto, procesó más de 20.000 datos, unificó ocho mapas y lanzó diez formularios.</p></div>
+
+  <div style="display:flex; gap:14px; margin:0 0 4px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">06</span><p style="margin:0;"><strong>Las redes fuertes también excluyen.</strong> Las redes fuertes benefician a los bien conectados y excluyen a los pobres y aislados (Haití 2010; Tamil Nadu 2004).</p></div>
+
+  <!-- ============ 3 · EL MARCO CADEM ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 16px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">02</span><span>El marco CADEM</span></h2>
+
+  <p style="margin:0 0 13px;">La literatura revisada por pares converge en que los desastres se comportan como sistemas adaptativos complejos. El artículo de referencia más reciente y directamente aplicable es <strong>CADEM</strong> (Complex Adaptive Disaster and Emergency Management), publicado en el <em>International Journal of Disaster Risk Reduction</em> (vol. 119, art. 105323; DOI 10.1016/j.ijdrr.2025.105323), de la AUT University (Auckland, Nueva Zelanda). Los autores argumentan que los modelos rígidos por fases fallan ante la naturaleza dinámica, no lineal e impredecible de los desastres contemporáneos, y proponen el marco fundado en la teoría CAS. <span style="color:#6f6b63;">(Nota: Todd Miller es autor único de los materiales prácticos —factsheets, checklists— publicados por ReNDES; el artículo de revista es Miller, Le Dé &amp; Hore.)</span></p>
+
+  <p style="margin:0 0 13px;">El marco CADEM combina tres elementos estructurales de los sistemas complejos — <strong>agentes</strong> (actores formales e informales), <strong>conexiones</strong> (interdependencias entre infraestructura, cadenas de suministro, gobernanza y comunicaciones) e <strong>interacciones</strong> (flujo de información, recursos y acciones) — con <strong>ocho propiedades CAS</strong>: (1) autoorganización, (2) bucles de retroalimentación, (3) diversidad (incluyendo conocimientos indígenas, p. ej. Mātauranga Māori), (4) propiedades emergentes, (5) adaptación, (6) no linealidad, (7) tiempo y (8) estresores externos.</p>
+
+  <p style="margin:0 0 13px;">Según los autores, el framework aborda las limitaciones del enfoque tradicional de tres maneras textuales:</p>
+
+  <blockquote style="margin:0 0 14px; border-left:3px solid #2b5b63; padding:2px 0 2px 18px; font-style:italic; color:#3a382f;">«(1) reemplaza las estructuras rígidas de comando de arriba-abajo con coordinación adaptativa y descentralizada; (2) cambia de modelos de planificación estática a resolución de problemas en red y en tiempo real que evoluciona según las necesidades emergentes; y (3) prioriza la diversidad y la redundancia para prevenir puntos únicos de falla y aumentar la resiliencia sistémica.»</blockquote>
+
+  <p style="margin:0 0 13px;">Es importante señalar que <strong>CADEM aún no ha sido validado empíricamente</strong> (síntesis teórica; los autores mismos reconocen la falta de validación y piden programas piloto), pero está publicado en revista revisada por pares y alojado por UNDRR/PreventionWeb, lo que le confiere autoridad para citarlo. Un matiz clave: CADEM <strong>no</strong> aboga por la descentralización pura, sino por el equilibrio — reconoce que <em>«cierto nivel de coordinación centralizada sigue siendo esencial para proveer supervisión estratégica… sin sofocar la toma de decisiones localizada»</em>.</p>
+
+  <p style="margin:0 0 13px;">La reformulación de las fases del desastre proviene de una presentación de conferencia (2025 Disaster &amp; Emergency Management Conference), no del artículo revisado por pares; pero el concepto subyacente — reformular las fases como un continuo interconectado en lugar de etapas discretas — sí está en el artículo: <em>«al enmarcar la GED como un continuo de sistemas interconectados, en vez de un proceso estático guiado por comando»</em>.</p>
+
+  <p style="margin:0 0 13px;">Un complemento académico útil es el trabajo publicado en <em>Urban Science</em> (MDPI, 2021), «Organizing Theories for Disasters into a Complex Adaptive System Framework», que distingue tres sistemas interactuantes (físico, social e individual) y muestra que las propiedades CAS de heterogeneidad, subsistemas interactuantes, emergencia, adaptación y aprendizaje son integrales al comportamiento humano en desastres.</p>
+
+  <p style="margin:0 0 6px; background:#f4f1ea; border-radius:2px; padding:14px 16px;"><strong style="color:#2b5b63;">Implicación para Yaracuy.</strong> La teoría le da autoridad para argumentar que la respuesta descentralizada y autoorganizada de una comunidad no es un mal necesario ante la ausencia del Estado, sino el modo de operación que la evidencia experta identifica como más adaptativo y resiliente — siempre que se le dote de estructura mínima, aprendizaje continuo (bucles de retroalimentación) y coordinación en red.</p>
+
+  <!-- ============ 4 · ACCIONES CONCRETAS ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 12px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">03</span><span>Acciones concretas transferibles</span></h2>
+
+  <p style="margin:0 0 14px;">El «CADEM Resource Suite» incluye una <em>Implementation Companion</em> de 10 fases (5 de preparación, 5 de respuesta activa). Entre las acciones más transferibles a Yaracuy:</p>
+
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Mapa de la red de actores</strong> (Fase 2): identificar actores tradicionales y emergentes, crear perfiles y un mapa de red con roles y conexiones (herramientas de análisis de redes como Kumu o Gephi, pero puede hacerse en papel).</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Designar enlaces y puentes</strong> (boundary-spanners) entre grupos (Fase 4).</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Establecer estructuras de coordinación adaptativas</strong> (Fase 6).</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Gestión del conocimiento</strong>: «quién sabe qué, quién tiene qué, quién necesita qué» (Fase 7).</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Organizar centros por función</strong> según necesidad evolutiva (logística, salud, bienestar) en vez de un solo centro (Fase 8).</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 4px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Bucles de retroalimentación y aprendizaje</strong>: revisiones post-acción (AAR), micro-chequeos, sondeos digitales (Fases 5 y 8).</p></div>
+
+  <!-- ============ 5 · BASE DE EVIDENCIA ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 6px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">04</span><span>La base de evidencia</span></h2>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Voluntariado informal</h3>
+  <p style="margin:0 0 13px;">Whittaker, McLennan &amp; Handmer (2015), «A review of informal volunteerism in emergencies and disasters», <em>International Journal of Disaster Risk Reduction</em> 13:358–368 (RMIT University, acceso abierto CC BY-NC-ND), es el trabajo seminal que define el voluntariado informal y advierte que quienes trabajan fuera de los sistemas oficiales «han tendido a ser vistos como una molestia o un pasivo (liability), y sus esfuerzos frecuentemente son subvalorados», cuando en realidad proveerán gran parte de la capacidad de reserva (surge capacity) necesaria en desastres futuros.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Grupos emergentes y voluntarios espontáneos</h3>
+  <p style="margin:0 0 13px;">Twigg &amp; Mosel (2017), «Emergent groups and spontaneous volunteers in urban disaster response», <em>Environment &amp; Urbanization</em> 29(2):443–458 (ODI, DOI 10.1177/0956247817721413), es la revisión de referencia. Concluye que el trabajo de grupos emergentes y voluntarios espontáneos debe verse como <em>«una respuesta significativa de afrontamiento en tiempos de crisis, que aumenta la capacidad de las organizaciones establecidas para satisfacer demandas cambiantes»</em>, y que se requiere improvisación y creatividad para construir redes y relaciones entre organizaciones e incorporar a los voluntarios.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Comportamiento de convergencia</h3>
+  <p style="margin:0 0 13px;">El trabajo fundacional es Fritz &amp; Mathewson (1957), «Convergence Behavior in Disasters: A Problem in Social Control» (National Academy of Sciences–National Research Council, Publicación 476). Definieron la convergencia como el movimiento masivo de personas, mensajes y suministros hacia la zona del desastre, con tres tipos: <strong>convergencia personal</strong> (movimiento físico de personas), <strong>convergencia informacional</strong> (transmisión de mensajes) y <strong>convergencia material</strong> (movimiento de suministros). Kendra &amp; Wachtendorf (2003) añadieron arquetipos como los «dolientes» (mourners) y «simpatizantes» (supporters). Comprender estos arquetipos es crítico: la convergencia es beneficiosa en la etapa temprana por la escasez de recursos, pero la convergencia material no solicitada (donaciones inadecuadas) puede saturar las vías y desviar recursos de los sobrevivientes hacia los propios voluntarios.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Autoorganización y coordinación</h3>
+  <p style="margin:0 0 13px;">Simsa, Rameder, Aghamanoukjan &amp; Totter (2019), «Spontaneous Volunteering in Social Crises: Self-Organization and Coordination», <em>Nonprofit and Voluntary Sector Quarterly</em> 48(2):103–122 (Universidad de Economía y Negocios de Viena). El hallazgo central, en cita textual: <em>«la autoorganización estructurada — es decir, encontrar una relación complementaria adecuada entre autoorganización y coordinación — es crucial para la eficiencia del trabajo de los SV, y para su satisfacción, bienestar y compromiso.»</em> Sus implicaciones de gestión: (a) estructuras fluidas que habiliten la autonomía; (b) condiciones marco orientadoras para la autoorganización; y (c) recursos para el cuidado y la coordinación — un estilo «nutricio» (nurturing) centrado en las necesidades, el contacto y el apoyo de los voluntarios, equilibrando el fomento de la independencia con el ofrecimiento de estructura.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">El modelo «paraguas» de Kobe</h3>
+  <p style="margin:0 0 13px;">Tras el Gran Terremoto de Hanshin-Awaji (Kobe), surgieron organizaciones que coordinaban tanto voluntarios afiliados como espontáneos. Atsumi, Sugiman, Mori &amp; Yatsuzuka (1995) documentaron con observación participante la <strong>coordinación interorganizacional</strong> y el <strong>apoyo social afectivo</strong> a los sobrevivientes. Atsumi &amp; Goltz (2014), «Fifteen Years of Disaster Volunteers in Japan» (Sage), trazan la tensión de largo plazo entre el desarrollo de organizaciones formales que enfatizan la cooperación interinstitucional y la coordinación de voluntarios, por un lado, y el mantenimiento de un enfoque más afectivo de apoyo social (presencia física y emocional con los sobrevivientes), por otro. Kobe fue el punto de inflexión del voluntariado en Japón: el gobierno declaró el 17 de enero «Día de la Prevención de Desastres y el Voluntariado». La lección de coordinación es que el «paraguas» funciona como un nodo ligero que conecta grupos emergentes con gobiernos locales sin absorberlos ni sofocar su iniciativa.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">«Autoridad para operar»: Christchurch</h3>
+  <p style="margin:0 0 13px;">Nissen et al. (2022), «Gaining "authority to operate"», <em>Disasters</em>, analiza cómo el <strong>Student Volunteer Army (SVA)</strong> — surgido tras los terremotos de Christchurch 2010–2011 — negoció su legitimidad ante agencias establecidas. El SVA fue iniciado por Sam Johnson mediante una página de Facebook con 200 invitados; en el sismo de septiembre de 2010 movilizó ~2.500 voluntarios que retiraron más de 65.000 toneladas de lodo de licuefacción de las calles y propiedades de Christchurch; tras el sismo de febrero de 2011 llegó a coordinar un estimado de <strong>varios miles de voluntarios más</strong>. Un equipo núcleo de 6 personas se expandió a 12, cada uno dirigiendo un departamento. Nissen et al. (2021) identifican los factores que habilitaron esta movilización («¿por qué?, ¿quién?, ¿cuándo?, ¿qué?, ¿cómo?»). La lección clave: los grupos emergentes de bajo riesgo y baja calificación («una pala o un carrito de compras») pueden desplegarse masivamente para tareas no especializadas, pero deben reconocer sus límites (el SVA no pudo actuar en el incendio de Port Hills porque requería entrenamiento especializado).</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">El «asunto espinoso» de la relación</h3>
+  <p style="margin:0 0 4px;">McLennan et al. (2021) describen la relación entre grupos emergentes de voluntarios y agencias establecidas como un «asunto espinoso». La gestión tradicional de emergencias ha visto a los SV desde una lente «gerencial» enfocada en control, predictibilidad y responsabilidad legal (liability), lo que genera fricción. La evidencia recomienda pasar de esa lente de control a una de facilitación.</p>
+
+  <!-- ============ 6 · GESTIÓN OPERATIVA ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 6px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">05</span><span>Gestión operativa del voluntariado</span></h2>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Marco FEMA e ICS</h3>
+  <p style="margin:0 0 13px;">El manual de FEMA «Managing Spontaneous Volunteers in Times of Disaster: The Synergy of Structure» y los materiales del curso G-489 establecen que la coordinación de voluntarios espontáneos es distinta de la de organizaciones tradicionales de socorro y de la de voluntarios afiliados, y suele ubicarse, dentro del Sistema de Comando de Incidentes (ICS), bajo la Unidad de Suministros de la Sección de Logística. Recomiendan el concepto de VOAD (Voluntary Organizations Active in Disaster) como plataforma de coordinación pre-establecida.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Cinco áreas prioritarias</h3>
+  <p style="margin:0 0 13px;">La literatura de gestión de SV identifica cinco áreas prioritarias que deben atenderse: <strong>especificidades locales, coordinación, comunicación, entrenamiento y seguridad</strong> (revisión sobre coordinación de voluntarios espontáneos durante desastres y emergencias, 2021). A esto se suman prácticas operativas concretas.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">La regla de oro</h3>
+  <p style="margin:0 0 13px;">El principio operativo más importante extraído de los manuales es: <strong>«sin registro no hay asignación»</strong> — si alguien quiere ayudar, primero entra al proceso de gestión de voluntarios. Esto evita los tres fallos recurrentes: comunicación débil (instrucciones que circulan por cadenas de texto y se vuelven obsoletas), ausencia de charla de seguridad (los voluntarios ignoran peligros como escombros, líneas eléctricas caídas, estrés por calor, estructuras inestables) y documentación pobre (horas, tareas, ubicaciones, lesiones y derivaciones no capturadas).</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Documentación</h3>
+  <p style="margin:0 0 13px;">No es burocracia: soporta seguridad, rendición de cuentas, reembolsos, reportes a donantes y revisión posterior (after-action review). Las horas de voluntariado documentadas y los tipos de trabajo pueden respaldar registros de contrapartida de costos.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Seguridad del voluntario</h3>
+  <p style="margin:0 0 13px;">La seguridad del voluntario es la consideración primaria; nunca se debe pedir a un voluntario que asuma riesgos personales indebidos o que trabaje más allá del alcance de su experiencia o entrenamiento. Hay situaciones donde los voluntarios no son apropiados (escenas de crimen, zonas de riesgo significativo para su salud).</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Fatiga por compasión y autocuidado</h3>
+  <p style="margin:0 0 4px;">La fatiga por compasión (concepto acuñado por Charles Figley, 1995) combina agotamiento (burnout) y estrés traumático secundario. SAMHSA recomienda enfocarse en los cuatro componentes centrales de la resiliencia: sueño adecuado, alimentación sana, actividad física regular y relajación activa; crear un plan de autocuidado; desarrollar relaciones positivas entre voluntarios; y celebrar logros. La prevención requiere construir un ambiente organizacional de apoyo y reforzar factores protectores (estudio sobre voluntarios durante el confinamiento por SARS-CoV-2 en España, 2021). Señales de alerta: desapego, embotamiento, sensación de agobio y agotamiento, más frecuentes en voluntarios de largo plazo.</p>
+
+  <!-- ============ 7 · EL TIEMPO DEL DESASTRE ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 16px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">06</span><span>El tiempo del desastre: fases y curvas de esfuerzo</span></h2>
+
+  <p style="margin:0 0 13px;">Las necesidades evolucionan por fases. El modelo clásico (National Governor's Association) distingue mitigación, preparación, respuesta y recuperación; para la fase post-impacto es útil pensar en tres sub-períodos con curvas de esfuerzo distintas. Kates (1977), «Reconstruction Following Disaster», propuso una línea de tiempo logarítmica: un período de emergencia (búsqueda y rescate, horas a días), un período de restauración (restablecimiento de servicios, semanas a meses) y un período de reconstrucción (meses a años, típicamente ~10 veces el de restauración). Kates concluyó que <em>«un desempeño excepcional en cualquiera de los períodos mayores de recuperación puede reducir a la mitad el tiempo requerido para esa actividad»</em>.</p>
+
+  <p style="margin:0 0 4px; background:#f4f1ea; border-radius:2px; padding:14px 16px;"><strong style="color:#2b5b63;">Implicación para la respuesta.</strong> La fase de búsqueda y rescate (donde la convergencia espontánea salva más vidas) dura poco; rápidamente el trabajo se desplaza a apoyo a sobrevivientes, luego a recuperación temprana y reconstrucción. La curva de «ayuda vs. necesidad» tiende a un pico temprano de ayuda (y sobreoferta de voluntarios y donaciones) que decae justo cuando las necesidades de recuperación de largo plazo persisten. Twigg &amp; Mosel advierten que el reto es sostener el compromiso en el largo plazo, cuando desaparece la atención mediática.</p>
+
+  <!-- ============ 8 · TECNOLOGÍA CÍVICA ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 16px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">07</span><span>Tecnología cívica en acción</span></h2>
+
+  <p style="margin:0 0 14px;">Tres casos ofrecen lecciones transferibles:</p>
+
+  <div style="display:flex; gap:12px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>#Verificado19S (México 2017).</strong> Surgió horas después del sismo desde el Centro Cultural Horizontal. Una red de voluntarios (monitores en terreno + «nodos» en computadoras) que, según su propio sitio, <em>«superó las 500 personas»</em> en calle y oficinas y <em>«a diez días del terremoto, procesamos más de 20.000 datos, unificamos ocho mapas y lanzamos diez formularios con los que la ciudadanía reportó derrumbes de edificios y las necesidades en centros de acopio y albergues»</em>. Empezó con un mapa de Google Maps y evolucionó. Sus principios auto-declarados están notablemente alineados con la mejor práctica académica: claridad de roles y responsabilidades pre-establecida, mecanismos de toma de decisiones predefinidos, liderazgo plural pero con línea de coordinación acordada antes del evento, y adhesión al Código de Conducta para el socorro en desastres, los estándares Esfera y la Norma Humanitaria Esencial. Un aprendizaje crítico: «las necesidades informativas cambiaban día con día» — lo que urgía hace 8 horas ya cambió, por lo que fecharon y horaron cada pieza de información.</p></div>
+
+  <div style="display:flex; gap:12px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Ushahidi / Haití 2010.</strong> Plataforma de mapeo de crisis de código abierto (originada en Kenia 2007). Iniciada en la sala de Patrick Meier, escaló según Ushahidi a unos 1.100 voluntarios que se conectaron a la plataforma de traducción y tradujeron decenas de miles de mensajes de texto; el código corto SMS 4636 (donado por Digicel) recibió unos 45.000 mensajes de la población reportando necesidades urgentes. Lecciones: (1) el volumen masivo de reportes requirió verificación y triaje manual; (2) OCHA inicialmente vio el mapa como «una mina de oro de datos, pero demasiado no estructurada y suelta» — la falta de un punto de contacto formal con las comunidades técnicas y de voluntarios (V&amp;TCs) abrumó a respondedores ya sobrecargados. Implicación: la información colaborativa necesita una interfaz estructurada con quienes toman decisiones.</p></div>
+
+  <div style="display:flex; gap:12px; margin:0 0 4px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Redundancia de canales.</strong> En México 2017, Twitter fue más eficiente que Facebook para información en tiempo real, y WhatsApp fue clave pero también aceleró rumores. Diseñar redundancia de comunicación es un principio CADEM explícito.</p></div>
+
+  <!-- ============ 9 · CASOS PAÍS ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 6px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">08</span><span>Casos ilustrativos por país</span></h2>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">México 1985</h3>
+  <p style="margin:0 0 13px;">El terremoto (magnitud 8.1) golpeó a las 7:19 del 19 de septiembre. La respuesta oficial fue tardía (el presidente demoró 36 horas). La población civil tomó las labores de rescate; las primeras acciones organizadas las realizaron grupos scouts, reforzados por estudiantes de medicina, ingeniería y ciencias; la UNAM suspendió clases una semana para liberar a estudiantes hacia las brigadas. Surgieron brigadas de rescate (los «Topos»), comités vecinales, cocinas populares y asambleas de barrio. Al final, ~4.000 personas fueron rescatadas por brigadas; se pudo extraer gente con vida hasta diez días después. El legado: el nacimiento de la sociedad civil organizada mexicana y la creación del Sistema Nacional de Protección Civil (1986). La lección para Yaracuy: la autoorganización masiva es posible y efectiva incluso sin (o a pesar de) el Estado, pero deja pendiente la coordinación para evitar duplicación y el tránsito hacia demandas de largo plazo (vivienda, reconstrucción).</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">México 2017</h3>
+  <p style="margin:0 0 13px;">Cubierto arriba en tecnología cívica. El contraste con 1985 es instructivo: en 2017 la vía principal de comunicación fueron las redes sociales, lo que habilitó verificación distribuida (#Verificado19S), evaluación remota de daños estructurales por arquitectos e ingenieros voluntarios (#RevisaMiGrieta, que examinó preliminarmente más de 200 edificios), y plataformas de vivienda solidaria (@Hogar19mx).</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Chile 2010</h3>
+  <p style="margin:0 0 13px;">La literatura (por ejemplo, el estudio sobre la comunidad pesquera de El Morro publicado en IJDRR) identifica cinco capacidades de resiliencia que permitieron la supervivencia comunitaria en los primeros días: (i) conocimiento local, (ii) sentido de comunidad, (iii) capital social, (iv) cooperación y organización, y (v) confianza. Otro hallazgo relevante: tras décadas en que las organizaciones sociales fueron mínimas o inexistentes (por la supresión durante la dictadura), el terremoto significó «el despertar de muchos grupos emergentes», algunos de los cuales se volvieron ONGs formales. La delegación de la Cruz Roja Americana (USGS Open-File Report 2011-1053) estudió el caso por su analogía con California. Lección: priorizar la identificación y protección de «recursos clave del lugar» y elevar el estatus de liderazgo de las organizaciones sociales emergentes en la planificación de reducción de riesgo.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Ecuador 2016 (Pedernales)</h3>
+  <p style="margin:0 0 4px;">Según Sánchez-Cortez &amp; Simbaña-Tasiguano (2024, <em>REDER</em> 8(2):83–98), <em>«el saldo fatal del terremoto de Pedernales (Terremoto 16A) se aproximó a 668 víctimas mortales, con un costo de recuperación de alrededor de 3.350 millones de dólares»</em>, con ~1.417 réplicas en un mes y unas 29.000 familias albergadas. La Cruz Roja Ecuatoriana movilizó más de 800 voluntarios; hubo ejemplos de coordinación cívico-privada (la Asociación de Chefs del Ecuador instaló un comedor comunitario en el estadio de Pedernales con 60 cocineros voluntarios rotados semanalmente, capacidad de 2.000 comidas diarias). También hubo problemas de seguridad (saqueos, fuga de reos), recordando la importancia de la seguridad del voluntario y de la comunidad. El caso de la comuna Las Gilces ilustra respuesta comunitaria basada en territorio.</p>
+
+  <!-- ============ 10 · EQUIDAD ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 16px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">09</span><span>Equidad e inclusión: el hallazgo más importante</span></h2>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:0 0 5px;">Haití 2010</h3>
+  <p style="margin:0 0 13px;">Más de 230.000–250.000 muertos, 1,5 millones sin hogar. Rahill et al. mostraron que el acceso a recursos de refugio variaba según el capital social: quienes tenían mejores conexiones con agencias de ayuda accedieron a mejores refugios, creando nuevas desigualdades entre los desplazados. Los haitianos locales no podían acceder al sistema de clusters de la ONU (Logbase) sin una afiliación previa — «no podían entrar sin registrarse, pero no podían registrarse sin entrar». Lección directa: los sistemas de coordinación, si no se diseñan con inclusión, reproducen y amplifican la exclusión.</p>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:20px 0 5px;">Literatura latinoamericana cercana</h3>
+  <p style="margin:0 0 13px;">Existe un cuerpo relevante y culturalmente cercano: la revista <strong>REDER</strong> (Revista de Estudios Latinoamericanos sobre Reducción del Riesgo de Desastres, ISSN 0719-8477); manuales de «plan comunitario/barrial de gestión integral del riesgo de desastres» (con sesiones sobre análisis de organizaciones comunitarias, planes de fortalecimiento y mecanismos de respuesta); la obra latinoamericana sobre gestión del riesgo con participación de «los sujetos del riesgo»; y trabajos de posgrado sobre participación comunitaria en gestión de riesgos basados en el caso de Vargas 1999 (Venezuela) — directamente pertinente por contexto nacional. UNDRR publica un Informe de Evaluación Regional sobre el riesgo de desastres en América Latina y el Caribe.</p>
+
+  <p style="margin:0 0 13px; background:#f4f1ea; border-radius:2px; padding:14px 16px;"><strong style="color:#2b5b63;">El hallazgo más importante para una respuesta autogestionada basada en redes:</strong> el capital social tiene dos caras — «bonding» (vínculos intragrupo) y «bridging» (puentes entre grupos, concepto de Putnam 2000). La lealtad intragrupo puede dejar fuera a quienes no pertenecen a la red.</p>
+
+  <p style="margin:0 0 12px;">Dos casos documentan el riesgo:</p>
+
+  <div style="display:flex; gap:12px; margin:0 0 12px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Tamil Nadu 2004 (tsunami).</strong> Human Rights Watch («After the Deluge», 2005) y el National Campaign on Dalit Human Rights documentaron que los dalits fueron excluidos de campamentos de socorro, no recibieron guía adecuada para acceder a ayuda, fueron obligados a remover cadáveres y escombros con poca o ninguna protección, y en algunos casos se les impidió sacar agua de tanques donados. La discriminación fue perpetrada principalmente por grupos de casta superior <strong>a nivel comunitario</strong>, no por el gobierno o las agencias. Lección: la ayuda gestionada por la comunidad puede reproducir las jerarquías y exclusiones pre-existentes.</p></div>
+
+  <div style="display:flex; gap:12px; margin:0 0 14px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Haití 2010.</strong> Como se detalló, el acceso diferencial por capital social y afiliación previa.</p></div>
+
+  <p style="margin:0 0 4px; border-left:3px solid #2b5b63; padding:2px 0 2px 18px; color:#3a382f;"><strong>Conclusión.</strong> Una respuesta autogestionada debe incorporar salvaguardas deliberadas de equidad — mapear activamente a los grupos desconectados (adultos mayores solos, personas con discapacidad, hogares encabezados por mujeres, migrantes, los más pobres), y no depender solo de que la ayuda «fluya» por las redes existentes.</p>
+
+  <!-- ============ 11 · RECOMENDACIONES ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 8px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">10</span><span>Recomendaciones para Yaracuy</span></h2>
+
+  <p style="margin:0 0 16px; color:#57534a; font-style:italic;">Trece acciones que traducen la evidencia en un protocolo operativo.</p>
+
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">01</span><p style="margin:0;">Establecer un <strong>nodo coordinador ligero</strong> tipo Nishinomiya: no una jerarquía que absorba a los grupos, sino un punto que conecte grupos emergentes entre sí y con cualquier actor formal disponible (Protección Civil, Cruz Roja, iglesias, universidades). Designar «brokers» o enlaces que crucen fronteras entre grupos (boundary-spanners, principio CADEM).</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">02</span><p style="margin:0;">Adoptar explícitamente el principio de <strong>autoorganización estructurada</strong> (Simsa et al. 2019): dar a cada brigada autonomía operativa, pero proveer estructura mínima — metas claras de corto plazo, roles definidos y una línea de coordinación acordada.</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">03</span><p style="margin:0;">Definir y comunicar <strong>roles y responsabilidades</strong> antes de asignar tareas (lección #Verificado19S).</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">04</span><p style="margin:0;">Abrir un <strong>centro de registro y asignación</strong> físico y/o virtual con la regla de oro: <strong>«sin registro no hay asignación»</strong>. Registrar nombre, contacto, habilidades y disponibilidad, y asignar chaleco/identificación.</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">05</span><p style="margin:0;">Impartir <strong>una charla de seguridad</strong> antes de cada despliegue (peligros: réplicas, estructuras inestables, líneas eléctricas, agua contaminada, estrés por calor). La seguridad del voluntario es innegociable; no asignar tareas fuera de la competencia o el entrenamiento.</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">06</span><p style="margin:0;"><strong>Documentar todo</strong> (horas, tareas, ubicaciones, lesiones, derivaciones) desde el día uno — sostiene rendición de cuentas y futuras gestiones de recursos.</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">07</span><p style="margin:0;"><strong>Emparejar habilidades con necesidades</strong>: separar tareas de baja calificación/bajo riesgo («pala o carrito», modelo SVA) de tareas que requieren certificación (rescate estructural, atención médica).</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">08</span><p style="margin:0;">Montar un <strong>sistema de mapeo e información</strong> al estilo #Verificado19S: monitores en terreno + «nodos» que consolidan. Empezar con herramientas conocidas (Google Maps, WhatsApp, formularios) antes que con software especializado; <strong>fechar y horar cada dato</strong> porque las necesidades cambian cada pocas horas.</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">09</span><p style="margin:0;">Diseñar <strong>redundancia de comunicación</strong> (principio CADEM): no depender de una sola app. Combatir activamente los rumores y la desinformación con verificación.</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">10</span><p style="margin:0;">Establecer una <strong>interfaz estructurada</strong> entre el mapeo comunitario y quienes toman decisiones (lección Ushahidi/OCHA): un punto de contacto claro evita que la información colaborativa sea ignorada por «no estructurada».</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">11</span><p style="margin:0;"><strong>Cuidar a los cuidadores</strong>: rotar voluntarios (modelo de los 60 cocineros rotados semanalmente en Ecuador), imponer descansos, vigilar señales de alerta en voluntarios de largo plazo, y aplicar los cuatro pilares de resiliencia (sueño, alimentación, actividad física, relajación).</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 11px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">12</span><p style="margin:0;"><strong>Salvaguardar la equidad</strong>: mapear proactivamente a los grupos desconectados y priorizarlos; no dejar que la ayuda fluya solo por redes de confianza pre-existentes (lección Haití/Tamil Nadu). Adoptar principios humanitarios establecidos (imparcialidad, no discriminación; Código de Conducta, Esfera, Norma Humanitaria Esencial).</p></div>
+  <div style="display:flex; gap:14px; margin:0 0 4px; align-items:baseline;"><span style="flex:0 0 auto; font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:14px; color:#2b5b63; min-width:22px;">13</span><p style="margin:0;"><strong>Planificar el largo plazo</strong>: anticipar que la atención y los recursos decaerán mientras las necesidades de recuperación persisten; sostener el compromiso y transformar brigadas emergentes en estructuras duraderas si la comunidad lo desea (modelo Kobe/SVA/Chile, donde grupos emergentes se volvieron ONGs).</p></div>
+
+  <!-- ============ 12 · CONTINGENCIAS ============ -->
+  <h2 style="font-family:'Libre Franklin',sans-serif; font-weight:700; font-size:20px; letter-spacing:-.005em; color:#171613; margin:38px 0 16px; padding-bottom:9px; border-bottom:1px solid #e4e0d7; display:flex; align-items:baseline; gap:12px;"><span style="font-family:'Libre Franklin',sans-serif; font-size:12px; font-weight:600; color:#2b5b63;">11</span><span>Contingencias y advertencias</span></h2>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:0 0 8px;">Escenarios de contingencia</h3>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Si el Estado se activa.</strong> Si aparece coordinación estatal/formal robusta, el nodo comunitario debe negociar su «autoridad para operar» (Nissen et al. 2022) e integrarse sin disolverse.</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Si llegan donaciones no solicitadas.</strong> Si la convergencia material satura las vías, activar gestión de donaciones separada y comunicar públicamente qué se necesita y qué no (evitar el problema documentado por FEMA de que los suministros para sobrevivientes terminen consumidos por voluntarios).</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Si hay riesgos especializados.</strong> Si el desastre involucra riesgos especializados (colapso estructural masivo, materiales peligrosos), restringir tareas de SV y priorizar equipos entrenados.</p></div>
+
+  <h3 style="font-family:'Libre Franklin',sans-serif; font-weight:600; font-size:14px; color:#2b5b63; margin:22px 0 8px;">Advertencias metodológicas</h3>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>CADEM no está validado empíricamente.</strong> Miller, Le Dé &amp; Hore (2025) lo proponen a partir de síntesis teórica y casos ilustrativos (Katrina, Canterbury, Nepal); los propios autores piden programas piloto. Es citable con autoridad como marco teórico revisado por pares, pero no como práctica probada mediante ensayo.</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>La «reformulación de fases» proviene de una conferencia</strong> — pero el concepto subyacente (reformular las fases como un continuo interconectado) sí está en el artículo.</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Límites de transferibilidad.</strong> Simsa et al. estudiaron una crisis social (refugiados 2015), no un terremoto; ellos mismos advierten que el entorno del voluntariado espontáneo en crisis sociales difiere del de desastres naturales. Los casos de FEMA/EE. UU. asumen un aparato estatal e ICS que puede no existir en Yaracuy; adáptense los principios, no las estructuras burocráticas.</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Fuentes periodísticas.</strong> Los detalles de México 1985/2017 provienen en parte de prensa y organizaciones cívicas (IMCO, Ruta Cívica, APC); son consistentes entre sí pero conviene contrastarlos con literatura académica para citas formales.</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 10px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Cifras con rango.</strong> Las cifras de muertos y voluntarios varían entre fuentes (México 1985: cifras oficiales vs. no oficiales de hasta 20.000+; Haití: 230.000–250.000+). Úsense con rango.</p></div>
+  <div style="display:flex; gap:12px; margin:0 0 4px; align-items:baseline;"><span style="flex:0 0 auto; color:#2b5b63; font-weight:700; line-height:1.4;">—</span><p style="margin:0;"><strong>Temas fuera de alcance.</strong> Algunos temas quedan excluidos por decisión explícita del encargo; requieren investigación separada.</p></div>
+
+  <div style="margin-top:34px; padding-top:14px; border-top:2px solid #2b5b63; font-family:'Libre Franklin',sans-serif; font-size:10px; letter-spacing:.03em; color:#8a857a;">Documento de síntesis · Elaborado a partir de literatura revisada por pares sobre gestión de desastres, voluntariado espontáneo y sistemas adaptativos complejos.</div>
+
+</div>
+</x-import>
+</x-dc>
+<script>
+(async () => {
+  if (!document.title || !document.title.trim()) document.title = "Guia Respuesta Civil Yaracuy";
+  // Prepend so page-supplied @page / break rules (deck-stage's margin:0,
+  // author CSS) keep source-order precedence over the baseline.
+  const baseCss = document.createElement('style');
+  baseCss.textContent = "@media print {\n  figure, table { break-inside: avoid; }\n  *, *::before, *::after {\n    print-color-adjust: exact; -webkit-print-color-adjust: exact;\n    backdrop-filter: none !important; -webkit-backdrop-filter: none !important;\n    animation-delay: -99s !important; animation-duration: .001s !important;\n    animation-iteration-count: 1 !important; animation-fill-mode: both !important;\n    animation-play-state: running !important; transition-duration: 0s !important;\n  }\n}";
+  document.head.prepend(baseCss);
+  if (document.readyState === 'loading') {
+    await new Promise((r) => document.addEventListener('DOMContentLoaded', r, { once: true }));
+  }
+  let ds = document.querySelector('deck-stage');
+  // whenDefined never resolves when nothing registers the element, so only
+  // await it when a <deck-stage> tag exists (and race a timeout regardless).
+  if (ds && !customElements.get('deck-stage')) {
+    try {
+      await Promise.race([
+        customElements.whenDefined('deck-stage'),
+        new Promise((r) => setTimeout(r, 3000)),
+      ]);
+    } catch (e) {}
+    ds = document.querySelector('deck-stage');
+  }
+  // dc-runtime assigns window.DCLogic at init and mounts into #dc-root on
+  // DOMContentLoaded; settle on that subtree so React has rendered before
+  // print(). Non-DC pages fall through to weighing body.
+  const isDc = !ds && 'DCLogic' in window;
+  const settleRoot = ds || (isDc ? document.getElementById('dc-root') : null) || document.body;
+  if (settleRoot) {
+    // Weigh only content children — skip script/style/template so inline
+    // Babel/CSS doesn't register as stable "content" before the framework
+    // has mounted anything.
+    const MEDIA = 'img,svg,canvas,video,picture,iframe,embed,object';
+    const weigh = () => {
+      let text = 0, media = 0;
+      for (const c of settleRoot.children) {
+        const t = c.tagName;
+        if (t === 'SCRIPT' || t === 'STYLE' || t === 'TEMPLATE') continue;
+        text += (c.textContent || '').trim().length;
+        media += c.querySelectorAll(MEDIA).length + (c.matches(MEDIA) ? 1 : 0);
+      }
+      return text + media * 100;
+    };
+    // "Non-zero and stable" alone is not sufficient to mean rendered: generic
+    // body can carry a static shell while async main content is pending, and
+    // #dc-root can carry the root DC's static text while child refs are still
+    // .sc-placeholder boxes. Gate generic on readyState 'complete', and never
+    // accept stability while a dc-runtime placeholder is present.
+    const isGeneric = settleRoot === document.body;
+    const deadline = Date.now() + 15000;
+    let last = -1, stable = 0;
+    while (Date.now() < deadline) {
+      const n = weigh();
+      const ready =
+        (!isGeneric || document.readyState === 'complete') &&
+        !settleRoot.querySelector('.sc-placeholder');
+      if (n > 0 && n === last && ready) { if (++stable >= 2) break; } else { stable = 0; }
+      last = n;
+      await new Promise((r) => setTimeout(r, 250));
+    }
+  }
+  // Project support.js may predate runtime default-seeding; push via bridge.
+  if (isDc && window.__dcSetProps && window.__dcRootName) {
+    try {
+      const dpEl = document.querySelector('script[data-dc-script]');
+      const meta = JSON.parse((dpEl && dpEl.getAttribute('data-props')) || '{}');
+      const bag = {};
+      for (const k in meta)
+        if (k[0] !== '$' && meta[k] && meta[k].default !== undefined)
+          bag[k] = meta[k].default;
+      if (Object.keys(bag).length) {
+        window.__dcSetProps(window.__dcRootName(), bag);
+        await new Promise((r) => setTimeout(r, 50));
+      }
+    } catch (e) {}
+  }
+  // Reveal content gated on scroll or visibility before printing. Lazy <img>,
+  // IntersectionObserver fade-ins, and collapsed <details> don't render while
+  // off-screen, so a long page would print with them blank or closed. Open
+  // every <details>, force native-lazy images eager, and scroll the document
+  // through its full height to trip lazy-load + IO; then wait (bounded) for the
+  // newly-triggered images. Inert for deck-stage (slides aren't scroll-gated).
+  try {
+    for (const d of document.querySelectorAll('details')) d.open = true;
+    for (const img of document.querySelectorAll('img[loading="lazy"]'))
+      img.loading = 'eager';
+    const scroller = document.scrollingElement || document.documentElement;
+    const full = Math.max(scroller.scrollHeight, document.body.scrollHeight);
+    const step = window.innerHeight || 800;
+    for (let y = 0; y <= full; y += step) {
+      window.scrollTo(0, y);
+      await new Promise((r) => requestAnimationFrame(r));
+    }
+    window.scrollTo(0, 0);
+    await Promise.race([
+      Promise.all(
+        [...document.images].map((img) =>
+          img.complete
+            ? null
+            : new Promise((res) => {
+                img.addEventListener('load', res, { once: true });
+                img.addEventListener('error', res, { once: true });
+              })
+        )
+      ),
+      new Promise((r) => setTimeout(r, 4000)),
+    ]);
+  } catch (e) {}
+  try { await document.fonts.ready; } catch (e) {}
+  // Jump every animation to its end state so print() never captures a slide
+  // mid-entrance. Ordering matters: the 0s-transition style must be live
+  // BEFORE data-deck-active is set so attribute-keyed transitions don't
+  // start a (now-0s) run from the pre-active base.
+  const st = document.createElement('style');
+  st.textContent = '*,*::before,*::after{animation-delay:-99s !important;animation-duration:.001s !important;animation-iteration-count:1 !important;animation-fill-mode:both !important;animation-play-state:running !important;transition-duration:0s !important}';
+  document.head.appendChild(st);
+  for (const d of document.querySelectorAll('deck-stage')) {
+    for (const c of d.children) {
+      const t = c.tagName;
+      if (t === 'SCRIPT' || t === 'STYLE' || t === 'TEMPLATE') continue;
+      c.setAttribute('data-deck-active', '');
+    }
+  }
+  // Re-append deck-stage's @page last so no author @page can add a margin and
+  // spill each full-bleed slide onto two sheets. Backstop for old copies.
+  if (ds) {
+    let pg = document.getElementById('deck-stage-print-page');
+    if (!pg) {
+      pg = document.createElement('style');
+      pg.textContent = '@page{size:' + (+ds.getAttribute('width') || 1920) +
+        'px ' + (+ds.getAttribute('height') || 1080) + 'px;margin:0}';
+    }
+    document.body.appendChild(pg);
+  }
+  try {
+    const sweep = () => {
+      for (const a of document.getAnimations()) {
+        try { a.finish(); } catch (e) {
+          try { a.currentTime = (a.effect && a.effect.getComputedTiming().duration) || 0; a.pause(); } catch (e2) {}
+        }
+      }
+    };
+    sweep();
+    await new Promise((r) => requestAnimationFrame(r));
+    sweep();
+    await new Promise((r) => requestAnimationFrame(r));
+  } catch (e) {}
+  // Size the PDF page to the rendered design unless the file opted into
+  // standard paper via @page{size:letter|A4|…}. Decks own their own @page.
+  // Wrappers (body, …) lose padding+margin so the frame sits at (0,0); the
+  // frame itself loses only margin — its padding is INSIDE the measured
+  // rect and must stay, or content shifts and leaves a gap at bottom/right.
+  var __m = null;
+  try { __m = (() => {
+  var STAMP = true;
+  var docEl = document.documentElement;
+  var doc = { width: docEl.scrollWidth, height: docEl.scrollHeight };
+
+  var ds = document.querySelector('deck-stage');
+  if (ds) {
+    var dw = Number(ds.getAttribute('width')) || 1920;
+    var dh = Number(ds.getAttribute('height')) || 1080;
+    var n = typeof ds.length === 'number' ? ds.length : ds.children.length;
+    var idx = typeof ds.index === 'number' ? ds.index : 0;
+    var frames = [];
+    for (var i = 0; i < n; i++) frames.push({ left: 0, top: 0, width: dw, height: dh });
+    return { kind: 'deck', source: 'declared', doc: doc, frames: frames,
+      authored: frames.map(function(){return{width:true,height:true}}),
+      deck: { width: dw, height: dh, slideCount: n, index: idx },
+      signals: { paperPage: false, pxPage: false } };
+  }
+
+  // Declared kind: a doc-page tag names the kind outright, so no signal
+  // heuristics run (like the deck branch above, signals report false —
+  // they describe inferred classifications only). The tag alone is not
+  // trusted: the element must have upgraded (shadowRoot present), so a
+  // leftover tag whose script was deleted falls through to the heuristics
+  // that handle plain markup.
+  var stageSx = window.scrollX || 0, stageSy = window.scrollY || 0;
+  var dp = document.querySelector('doc-page');
+  if (dp && dp.shadowRoot) {
+    // Crop to the sheet, not the host — the desk around it is screen-only
+    // chrome that must not land in PNG exports.
+    var sheet = dp.shadowRoot.querySelector('.sheet');
+    var sr = (sheet || dp).getBoundingClientRect();
+    return { kind: 'paper-doc', source: 'declared', doc: doc,
+      frames: [{ left: sr.left + stageSx, top: sr.top + stageSy,
+        width: sr.width, height: sr.height }],
+      authored: [{ width: false, height: false }],
+      signals: { paperPage: false, pxPage: false } };
+  }
+  var paperPage = false, pxPage = false;
+  var eachRule = function (fn) {
+    for (var s = 0; s < document.styleSheets.length; s++) {
+      var rs; try { rs = document.styleSheets[s].cssRules; } catch (e) { continue; }
+      for (var r = 0; r < rs.length; r++) {
+        fn(rs[r]);
+        if (rs[r].cssRules) for (var n = 0; n < rs[r].cssRules.length; n++) fn(rs[r].cssRules[n]);
+      }
+    }
+  };
+  eachRule(function (r) {
+    if (r.type !== 6) return;
+    var m = /\bsize\s*:\s*([^;}]+)/i.exec(r.cssText || '');
+    if (!m) return;
+    if (/\b(letter|a[3-5]|legal|ledger)\b/i.test(m[1])) paperPage = true;
+    if (/\d+(?:\.\d+)?px\b/i.test(m[1])) pxPage = true;
+  });
+  var signals = { paperPage: paperPage, pxPage: pxPage };
+
+  var pxVal = function (v) {
+    var m = /^(\d+(?:\.\d+)?)px$/.exec(v || ''); return m ? +m[1] : 0;
+  };
+  var authoredPx = function (el, prop) {
+    if (pxVal(el.style[prop])) return true;
+    var attr = el.getAttribute(prop);
+    if (attr && /^\d+$/.test(attr)) return true;
+    var hit = false;
+    eachRule(function (r) {
+      if (hit || r.type !== 1 || !r.style) return;
+      try { if (el.matches(r.selectorText) && pxVal(r.style[prop])) hit = true; } catch (e) {}
+    });
+    return hit;
+  };
+
+  var el = document.body, rootPxW = false;
+  for (;;) {
+    var kids = [];
+    for (var c = 0; c < el.children.length; c++) {
+      var t = el.children[c].tagName;
+      if (t !== 'SCRIPT' && t !== 'STYLE' && t !== 'TEMPLATE') kids.push(el.children[c]);
+    }
+    if (kids.length !== 1 || !(kids[0] instanceof HTMLElement)) break;
+    if (STAMP) el.setAttribute('data-om-frame-wrap', '');
+    el = kids[0];
+    rootPxW = authoredPx(el, 'width');
+    if (rootPxW) break;
+  }
+  if (!rootPxW) rootPxW = authoredPx(el, 'width');
+
+  // @page{size:letter} alone is a flowing doc; with a px-width root it's a
+  // fixed sheet pretending to be paper — fall through and size to render.
+  if (paperPage && !rootPxW) {
+    return { kind: 'paper-doc', source: 'inferred', doc: doc, signals: signals,
+      frames: [{ left: 0, top: 0, width: doc.width, height: doc.height }],
+      authored: [{ width: false, height: false }] };
+  }
+
+  var sx = window.scrollX || 0, sy = window.scrollY || 0;
+  var rectOf = function (e) {
+    var r = e.getBoundingClientRect();
+    var oy; try { oy = getComputedStyle(e).overflowY; } catch (err) {}
+    var h = oy === 'visible' ? Math.max(r.height, e.scrollHeight || 0) : r.height;
+    return { left: r.left + sx, top: r.top + sy, width: r.width, height: h };
+  };
+
+  // Multi-frame: ≥2 visible non-fixed children, each with authored px width
+  // AND height, all within ±2px of each other. Off unless the page opts in
+  // via data-om-multi-frame on the stop element — guards against card grids
+  // and pricing tables that match the geometry but aren't separate canvases.
+  if (el.hasAttribute('data-om-multi-frame')) {
+    var cands = [];
+    for (var k = 0; k < el.children.length; k++) {
+      var ch = el.children[k];
+      var cs; try { cs = getComputedStyle(ch); } catch (e) { continue; }
+      if (cs.display === 'none' || cs.visibility === 'hidden' || cs.position === 'fixed') continue;
+      var rc = rectOf(ch);
+      if (rc.width < 2 || rc.height < 2) continue;
+      if (!authoredPx(ch, 'width') || !authoredPx(ch, 'height')) continue;
+      cands.push(rc);
+    }
+    if (cands.length >= 2) {
+      var w0 = cands[0].width, h0 = cands[0].height, ok = true;
+      for (var q = 1; q < cands.length; q++)
+        if (Math.abs(cands[q].width - w0) > 2 || Math.abs(cands[q].height - h0) > 2) ok = false;
+      if (ok) return { kind: 'multi-frame', source: 'inferred', doc: doc, signals: signals,
+        frames: cands, authored: cands.map(function(){return{width:true,height:true}}) };
+    }
+  }
+
+  if (STAMP) el.setAttribute('data-om-frame', '');
+  return { kind: 'single-canvas', source: 'inferred', doc: doc, signals: signals,
+    frames: [rectOf(el)],
+    authored: [{ width: rootPxW, height: authoredPx(el, 'height') }] };
+})(); } catch (e) {}
+  var frame = null;
+  if (__m && __m.kind === 'single-canvas') {
+    var f = __m.frames && __m.frames[0];
+    if (f && f.width >= 200 && f.height >= 200) {
+      frame = f;
+      var fst = document.createElement('style');
+      fst.textContent = '@media print{@page{size:' + Math.ceil(f.width) + 'px ' +
+        Math.ceil(f.height) + 'px;margin:0}' +
+        'html,body,[data-om-frame-wrap]{padding:0!important;margin:0!important;background:none!important}' +
+        '[data-om-frame]{margin:0!important}}';
+      document.body.appendChild(fst);
+    }
+  }
+  // Relax break-inside on oversized elements. An element taller than a
+  // printable page can't honor break-inside: avoid — browsers either overflow
+  // it or push it whole to the next page, leaving a blank gap, then break it
+  // anyway at an arbitrary point. After the final layout (content revealed,
+  // animations jumped), find elements taller than a page that still compute
+  // break-inside: avoid and reset them to auto, so the browser breaks them at
+  // their children's boundaries instead (children keep their own avoid). PAGE_PX
+  // is a conservative portrait estimate at 96 CSS px/in — Letter/A4 usable
+  // height minus our 0.5in margins — so only clearly-oversized elements are
+  // touched and under-page elements still stay whole. Skipped for decks (slides
+  // are sized to the page) and for fixed-size canvases (frame set, or an author
+  // px-based @page) — runs as before for flowing docs on letter/A4.
+  try {
+    if (!ds && !frame && !(__m && __m.signals && __m.signals.pxPage)) {
+      const PAGE_PX = 1024;
+      // Our print defaults add a real @page margin only when the source has
+      // no @page of its own; computed style can't tell us (it reports screen
+      // media), so read the injected rule directly.
+      const defaults = document.querySelector('style[data-omelette-print-defaults]');
+      const pageInset = /@page\s*\{[^}]*margin/.test(defaults ? defaults.textContent || '' : '');
+      const SEL = 'section,article,figure,table,pre,blockquote,[class~="card" i],[class~="page" i],[class~="sheet" i]';
+      for (const el of document.body.querySelectorAll(SEL)) {
+        if (el instanceof HTMLElement && el.offsetHeight > PAGE_PX) {
+          el.setAttribute('data-om-oversized', '');
+          // Fake-paged docs simulate sheets with over-tall break-after:page
+          // boxes; honoring the break spills half-blank pages and ends a
+          // colored box mid-sheet. Flow them, and (only when we own the page
+          // inset) drop the redundant padding/background via the rule below.
+          const cs = getComputedStyle(el);
+          if (cs.breakAfter === 'page' || cs.pageBreakAfter === 'always') {
+            el.setAttribute('data-om-fakepage', '');
+          }
+        }
+      }
+      const ost = document.createElement('style');
+      ost.textContent = '@media print{' +
+        '[data-om-oversized]{break-inside:auto !important;page-break-inside:auto !important}' +
+        '[data-om-fakepage]{break-after:auto !important;page-break-after:auto !important}' +
+        (pageInset ? '[data-om-fakepage]{padding:0 !important;background:none !important}' : '') +
+        '}';
+      document.head.appendChild(ost);
+    }
+  } catch (e) {}
+  // macOS Preview renders Skia-PDF Luminosity soft-masks as opaque grey boxes;
+  // swap the CSS that triggers them for Preview-safe forms.
+  try {
+    for (const el of document.body.querySelectorAll('*')) {
+      const cs = getComputedStyle(el);
+
+      if (cs.boxShadow !== 'none' && cs.filter === 'none') {
+        const outs = [], kept = [];
+        for (const s of cs.boxShadow.split(/,(?![^(]*[)])/)) {
+          const t = s.trim();
+          const m = t.match(/^(rgba?[(][^)]+[)]) (-?[0-9.]+px) (-?[0-9.]+px) ([0-9.]+px) -?[0-9.]+px$/);
+          if (m && parseFloat(m[4]) > 0) outs.push('drop-shadow(' + m[2] + ' ' + m[3] + ' ' + m[4] + ' ' + m[1] + ')');
+          else kept.push(t);
+        }
+        if (outs.length) {
+          el.style.setProperty('filter', outs.join(' '), 'important');
+          el.style.setProperty('box-shadow', kept.join(', ') || 'none', 'important');
+        }
+      }
+
+      const mask = cs.maskImage && cs.maskImage !== 'none' ? cs.maskImage : cs.webkitMaskImage;
+      if (mask && mask !== 'none' && cs.filter === 'none') el.style.setProperty('filter', 'opacity(1)', 'important');
+    }
+  } catch (e) {}
+  setTimeout(() => { try { window.print(); } catch (e) {} }, 200);
+})();
+</script>
+</body>
+</html>

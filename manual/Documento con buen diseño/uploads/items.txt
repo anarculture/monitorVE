@@ -1,0 +1,747 @@
+
+===== PAGE 1 =====
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] La evidencia académica es clara: los voluntarios espontáneos y grupos emergentes son la\n
+[g_d0_f2] primera y más grande fuerza de respuesta tras un desastre y aumentan la capacidad de las\n
+[g_d0_f2] organizaciones formales; la clave no es controlarlos jerárquicamente sino aplicar\n
+[g_d0_f2] (structured self-organization, Simsa et al. 2019) — darles\n
+[g_d0_f2] espacio para autoorganizarse mientras se les provee estructura mínima, metas claras de\n
+[g_d0_f2] corto plazo y coordinación.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Para Yaracuy, el modelo operativo recomendado combina cinco piezas: (1) un\n
+[g_d0_f2] tipo Nishinomiya Volunteer Network (Kobe 1995); (2) un\n
+[g_d0_f2] con la regla "sin registro no hay asignación"; (3)\n
+[g_d0_f2] al estilo #Veri
+[g_d0_f3] fi
+[g_d0_f2] cado19S (México\n
+[g_d0_f2] 2017); (4) atención explícita a las
+[g_d0_f2]  
+[g_d0_f2] de gestión de SV (especi
+[g_d0_f3] fi
+[g_d0_f2] cidades\n
+[g_d0_f2] locales, coordinación, comunicación, entrenamiento, seguridad); y (5)\n
+[g_d0_f2] para evitar el sesgo de red social que excluye a los más pobres y desconectados.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Fundamento teórico para hablar con autoridad: los desastres se comportan como\n
+[g_d0_f2] — no lineales, con propiedades emergentes, autoorganización\n
+[g_d0_f2] y bucles de retroalimentación — por lo que los modelos rígidos de "comando y control"\n
+[g_d0_f2] fallan; el marco
+[g_d0_f2]  
+[g_d0_f2] traduce esto en principios accionables\n
+[g_d0_f2] de decisión descentralizada, coordinación en red y aprendizaje continuo.
+
+===== PAGE 2 =====
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] Whittaker, McLennan &\n
+[g_d0_f2] Handmer (2015) lo formulan textualmente:
+[g_d0_f2]  
+[g_d0_f4] "A pesar de los sistemas de gestión de\n
+[g_d0_f4] emergencias altamente especializados y capaces, los ciudadanos comunes son usualmente\n
+[g_d0_f4] los primeros en la escena de una emergencia o desastre, y permanecen mucho después de\n
+[g_d0_f4] que los servicios o
+[g_d0_f5] fi
+[g_d0_f4] ciales han cesado."
+[g_d0_f4]  
+[g_d0_f2] El caso de México 1985 es paradigmático: ante un\n
+[g_d0_f2] Estado paralizado (el presidente tardó 36 horas en dirigirse a la nación), la población se\n
+[g_d0_f2] autoorganizó masivamente en brigadas de rescate, cocinas populares y estaciones de auxilio.
+[g_d0_f3] \n
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] Los desastres son no lineales, con efectos en\n
+[g_d0_f2] cascada y comportamientos emergentes; los enfoques jerárquicos lineales fallan. El marco\n
+[g_d0_f2] CADEM propone gestionar los desastres como redes adaptativas con decisión\n
+[g_d0_f2] descentralizada.
+[g_d0_f3] \n
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] Simsa et al. (2019)\n
+[g_d0_f2] demuestran que
+[g_d0_f2]  
+[g_d0_f4] "la autoorganización estructurada — es decir, encontrar una relación\n
+[g_d0_f4] complementaria adecuada entre autoorganización y coordinación — es crucial para la\n
+[g_d0_f4] e
+[g_d0_f5] fi
+[g_d0_f4] ciencia del trabajo de los SV, y para su satisfacción, bienestar y compromiso"
+[g_d0_f2] , lo que\n
+[g_d0_f2] requiere (a) estructuras
+[g_d0_f2]  
+[g_d0_f3] fl
+[g_d0_f2] uidas que habiliten autonomía, (b) condiciones marco orientadoras\n
+[g_d0_f2] y (c) recursos para el cuidado y la coordinación.
+[g_d0_f3] \n
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] La Nishinomiya Volunteer\n
+[g_d0_f2] Network (Kobe 1995) coordinó voluntarios a
+[g_d0_f3] fi
+[g_d0_f2] liados y espontáneos sin sofocar su iniciativa.
+[g_d0_f3] \n
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] #Veri
+[g_d0_f3] fi
+[g_d0_f2] cado19S (México 2017)\n
+[g_d0_f2] superó las 500 personas en calle y o
+[g_d0_f3] fi
+[g_d0_f2] cinas y, a diez días del terremoto, procesó más de\n
+[g_d0_f2] 20,000 datos, uni
+[g_d0_f3] fi
+[g_d0_f2] có ocho mapas y lanzó diez formularios.
+[g_d0_f3] \n
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] Las redes fuertes bene
+[g_d0_f3] fi
+[g_d0_f2] cian a los bien\n
+[g_d0_f2] conectados y excluyen a los pobres y aislados (Haití 2010; Tamil Nadu 2004).\n
+[g_d0_f2] La literatura revisada por pares converge en que los desastres se comportan como sistemas\n
+[g_d0_f2] adaptativos complejos. El artículo de referencia más reciente y directamente aplicable es\n
+[g_d0_f2] , publicado en el
+[g_d0_f2]  
+[g_d0_f4] International Journal of Disaster Risk Reduction
+[g_d0_f4]  
+[g_d0_f2] (vol. 119, art.\n
+[g_d0_f2] 105323; DOI 10.1016/j.ijdrr.2025.105323), de la AUT University (Auckland, Nueva Zelanda). Los\n
+[g_d0_f2] autores argumentan que los modelos rígidos por fases fallan ante la naturaleza dinámica, no lineal\n
+[g_d0_f2] e impredecible de los desastres contemporáneos, y proponen el marco
+[g_d0_f2]  
+[g_d0_f2] (Complex\n
+[g_d0_f2] Adaptive Disaster and Emergency Management), fundado en la teoría CAS. (Nota: Todd Miller es\n
+[g_d0_f2] autor único de los materiales prácticos —factsheets, checklists— publicados por ReNDES; el\n
+[g_d0_f2] artículo de revista es Miller, Le Dé & Hore.)
+
+===== PAGE 3 =====
+[g_d0_f2] El marco CADEM combina tres elementos estructurales de los sistemas complejos —\n
+[g_d0_f2] (actores formales e informales),
+[g_d0_f2]  
+[g_d0_f2] (interdependencias entre\n
+[g_d0_f2] infraestructura, cadenas de suministro, gobernanza y comunicaciones) e
+[g_d0_f2]  
+[g_d0_f2] (
+[g_d0_f3] fl
+[g_d0_f2] ujo de\n
+[g_d0_f2] información, recursos y acciones) — con
+[g_d0_f2]  
+[g_d0_f2] : (1) Autoorganización, (2) Bucles\n
+[g_d0_f2] de retroalimentación, (3) Diversidad (incluyendo conocimientos indígenas, p. ej. M
+[g_d0_f3] ā
+[g_d0_f2] tauranga\n
+[g_d0_f2] M
+[g_d0_f3] ā
+[g_d0_f2] ori), (4) Propiedades emergentes, (5) Adaptación, (6) No linealidad, (7) Tiempo y (8)\n
+[g_d0_f2] Estresores externos. Según los autores, el framework aborda las limitaciones del enfoque\n
+[g_d0_f2] tradicional de tres maneras textuales:
+[g_d0_f2]  
+[g_d0_f4] "(1) reemplaza las estructuras rígidas de comando de arriba-\n
+[g_d0_f4] abajo con coordinación adaptativa y descentralizada; (2) cambia de modelos de plani
+[g_d0_f5] fi
+[g_d0_f4] cación\n
+[g_d0_f4] estática a resolución de problemas en red y en tiempo real que evoluciona según las necesidades\n
+[g_d0_f4] emergentes; y (3) prioriza la diversidad y la redundancia para prevenir puntos únicos de falla y\n
+[g_d0_f4] aumentar la resiliencia sistémica."
+[g_d0_f2] \n
+[g_d0_f2] Es importante señalar que
+[g_d0_f2]  
+[g_d0_f2] (síntesis teórica; los\n
+[g_d0_f2] autores mismos reconocen que aún no ha sido validado empíricamente y piden programas piloto),\n
+[g_d0_f2] pero está publicado en revista revisada por pares y alojado por UNDRR/PreventionWeb, lo que le\n
+[g_d0_f2] con
+[g_d0_f3] fi
+[g_d0_f2] ere autoridad para citarlo. Un matiz clave para Mau: CADEM
+[g_d0_f2]  
+[g_d0_f2] aboga por la\n
+[g_d0_f2] descentralización pura, sino por el equilibrio — reconoce que
+[g_d0_f2]  
+[g_d0_f4] "cierto nivel de coordinación\n
+[g_d0_f4] centralizada sigue siendo esencial para proveer supervisión estratégica… sin sofocar la toma de\n
+[g_d0_f4] decisiones localizada"
+[g_d0_f2] .\n
+[g_d0_f2] La frase proviene de una presentación de conferencia (2025\n
+[g_d0_f2] Disaster & Emergency Management Conference), no del artículo revisado por pares; pero el\n
+[g_d0_f2] concepto subyacente — reformular las fases del desastre como un continuo interconectado en\n
+[g_d0_f2] lugar de etapas discretas — sí está en el artículo:
+[g_d0_f2]  
+[g_d0_f4] "al enmarcar la GED como un continuo de\n
+[g_d0_f4] sistemas interconectados, en vez de un proceso estático guiado por comando"
+[g_d0_f2] .\n
+[g_d0_f2] Un complemento académico útil es el trabajo publicado en
+[g_d0_f2]  
+[g_d0_f4] Urban Science
+[g_d0_f4]  
+[g_d0_f2] (MDPI, 2021),\n
+[g_d0_f2] "Organizing Theories for Disasters into a Complex Adaptive System Framework", que distingue\n
+[g_d0_f2] tres sistemas interactuantes (físico, social e individual) y muestra que las propiedades CAS de\n
+[g_d0_f2] heterogeneidad, subsistemas interactuantes, emergencia, adaptación y aprendizaje son integrales\n
+[g_d0_f2] al comportamiento humano en desastres.\n
+[g_d0_f2] la teoría le da autoridad para argumentar que la respuesta\n
+[g_d0_f2] descentralizada y autoorganizada de su comunidad no es un mal necesario ante la ausencia del\n
+[g_d0_f2] Estado, sino el modo de operación que la evidencia experta identi
+[g_d0_f3] fi
+[g_d0_f2] ca como más adaptativo y\n
+[g_d0_f2] resiliente — siempre que se le dote de estructura mínima, aprendizaje continuo (bucles de\n
+[g_d0_f2] retroalimentación) y coordinación en red.\n
+[g_d0_f2] El "CADEM Resource Suite"\n
+[g_d0_f2] incluye una
+[g_d0_f2]  
+[g_d0_f4] Implementation Companion
+[g_d0_f4]  
+[g_d0_f2] de 10 fases (5 de preparación, 5 de respuesta activa).\n
+[g_d0_f2] Entre las acciones concretas más transferibles a Yaracuy:
+
+===== PAGE 4 =====
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] (Fase 2): identi
+[g_d0_f3] fi
+[g_d0_f2] car actores tradicionales y emergentes, crear\n
+[g_d0_f2] per
+[g_d0_f3] fi
+[g_d0_f2] les y un mapa de red con roles y conexiones (herramientas de análisis de redes como\n
+[g_d0_f2] Kumu o Gephi, pero puede hacerse en papel).
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] (boundary-spanners) entre grupos (Fase 4).
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f2] \n
+[g_d0_f2] (Fase 6).
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] : "quién sabe qué, quién tiene qué, quién necesita qué"\n
+[g_d0_f2] (Fase 7).
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] por necesidad evolutiva (logística, salud, bienestar) en\n
+[g_d0_f2] vez de un solo centro (Fase 8).
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] : revisiones post-acción (AAR), micro-chequeos, sondeos\n
+[g_d0_f2] digitales (Fases 5 y 8).\n
+[g_d0_f2] Whittaker, McLennan & Handmer (2015), "A review of informal volunteerism in\n
+[g_d0_f2] emergencies and disasters",
+[g_d0_f2]  
+[g_d0_f4] International Journal of Disaster Risk Reduction
+[g_d0_f4]  
+[g_d0_f2] 13
+[g_d0_f3] �
+[g_d0_f2] 358–368 (RMIT\n
+[g_d0_f2] University, acceso abierto CC BY-NC-ND), es el trabajo seminal que de
+[g_d0_f3] fi
+[g_d0_f2] ne el voluntariado\n
+[g_d0_f2] informal y advierte que quienes trabajan fuera de los sistemas o
+[g_d0_f3] fi
+[g_d0_f2] ciales "han tendido a ser vistos\n
+[g_d0_f2] como una molestia o un pasivo (liability), y sus esfuerzos frecuentemente son subvalorados",\n
+[g_d0_f2] cuando en realidad proveerán gran parte de la capacidad de reserva (surge capacity) necesaria en\n
+[g_d0_f2] desastres futuros.\n
+[g_d0_f2] Twigg & Mosel (2017), "Emergent groups and spontaneous volunteers in\n
+[g_d0_f2] urban disaster response",
+[g_d0_f2]  
+[g_d0_f4] Environment & Urbanization
+[g_d0_f4]  
+[g_d0_f2] 29(2):443–458 (ODI, DOI\n
+[g_d0_f2] 10.1177/0956247817721413), es la revisión de referencia. Concluye que el trabajo de grupos\n
+[g_d0_f2] emergentes y voluntarios espontáneos debe verse como
+[g_d0_f2]  
+[g_d0_f4] "una respuesta signi
+[g_d0_f5] fi
+[g_d0_f4] cativa de\n
+[g_d0_f4] afrontamiento en tiempos de crisis, que aumenta la capacidad de las organizaciones establecidas\n
+[g_d0_f4] para satisfacer demandas cambiantes"
+[g_d0_f2] , y que se requiere improvisación y creatividad para\n
+[g_d0_f2] construir redes y relaciones entre organizaciones e incorporar a los voluntarios.\n
+[g_d0_f2] El trabajo fundacional es Fritz & Mathewson (1957),\n
+[g_d0_f2] "Convergence Behavior in Disasters: A Problem in Social Control" (National Academy of\n
+[g_d0_f2] Sciences–National Research Council, Publicación 476). De
+[g_d0_f3] fi
+[g_d0_f2] nieron la convergencia como el\n
+[g_d0_f2] movimiento masivo de personas, mensajes y suministros hacia la zona del desastre, con tres tipos:\n
+[g_d0_f2] (movimiento físico de personas),\n
+[g_d0_f2] (transmisión de mensajes) y
+[g_d0_f2]  
+[g_d0_f2] (movimiento de suministros). Kendra &\n
+[g_d0_f2] Wachtendorf (2003) añadieron arquetipos como los "dolientes" (mourners) y "simpatizantes"\n
+[g_d0_f2] (supporters). Comprender estos arquetipos es crítico: la convergencia es bene
+[g_d0_f3] fi
+[g_d0_f2] ciosa en la etapa\n
+[g_d0_f2] temprana por la escasez de recursos, pero la convergencia material no solicitada (donaciones\n
+[g_d0_f2] inadecuadas) puede saturar las vías y desviar recursos de los sobrevivientes hacia los propios\n
+[g_d0_f2] voluntarios.
+
+===== PAGE 5 =====
+[g_d0_f2] Simsa, Rameder, Aghamanoukjan &\n
+[g_d0_f2] Totter (2019), "Spontaneous Volunteering in Social Crises: Self-Organization and Coordination",
+[g_d0_f4] \n
+[g_d0_f4] Nonpro
+[g_d0_f5] fi
+[g_d0_f4] t and Voluntary Sector Quarterly
+[g_d0_f4]  
+[g_d0_f2] 48(2):103–122 (Universidad de Economía y Negocios de\n
+[g_d0_f2] Viena). El hallazgo central, en cita textual:
+[g_d0_f2]  
+[g_d0_f4] "la autoorganización estructurada — es decir,\n
+[g_d0_f4] encontrar una relación complementaria adecuada entre autoorganización y coordinación — es\n
+[g_d0_f4] crucial para la e
+[g_d0_f5] fi
+[g_d0_f4] ciencia del trabajo de los SV, y para su satisfacción, bienestar y compromiso."
+[g_d0_f4]  
+[g_d0_f2] Sus\n
+[g_d0_f2] implicaciones de gestión: (a) estructuras
+[g_d0_f2]  
+[g_d0_f3] fl
+[g_d0_f2] uidas que habiliten la autonomía; (b) condiciones\n
+[g_d0_f2] marco orientadoras para la autoorganización; y (c) recursos para el cuidado y la coordinación —\n
+[g_d0_f2] un estilo "nutricio" (nurturing) centrado en las necesidades, el contacto y el apoyo de los\n
+[g_d0_f2] voluntarios, equilibrando el fomento de la independencia con el ofrecimiento de estructura.\n
+[g_d0_f2] Tras el Gran Terremoto de Hanshin-Awaji\n
+[g_d0_f2] (Kobe), surgieron organizaciones que coordinaban tanto voluntarios a
+[g_d0_f3] fi
+[g_d0_f2] liados como espontáneos.\n
+[g_d0_f2] Atsumi, Sugiman, Mori & Yatsuzuka (1995) documentaron con observación participante la\n
+[g_d0_f2] y el\n
+[g_d0_f2] . Atsumi & Goltz (2014), "Fifteen Years of Disaster Volunteers in Japan" (Sage),\n
+[g_d0_f2] trazan la tensión de largo plazo entre el desarrollo de organizaciones formales que enfatizan la\n
+[g_d0_f2] cooperación interinstitucional y la coordinación de voluntarios, por un lado, y el mantenimiento\n
+[g_d0_f2] de un enfoque más afectivo de apoyo social (presencia física y emocional con los sobrevivientes),\n
+[g_d0_f2] por otro. Kobe fue el punto de in
+[g_d0_f3] fl
+[g_d0_f2] exión del voluntariado en Japón: el gobierno declaró el 17 de\n
+[g_d0_f2] enero "Día de la Prevención de Desastres y el Voluntariado". La lección de coordinación es que el\n
+[g_d0_f2] "paraguas" funciona como un nodo ligero que conecta grupos emergentes con gobiernos locales\n
+[g_d0_f2] sin absorberlos ni sofocar su iniciativa.\n
+[g_d0_f2] Nissen et al. (2022), "Gaining 'authority\n
+[g_d0_f2] to operate'",
+[g_d0_f2]  
+[g_d0_f4] Disasters
+[g_d0_f2] , analiza cómo el
+[g_d0_f2]  
+[g_d0_f2] — surgido tras los\n
+[g_d0_f2] terremotos de Christchurch 2010–2011 — negoció su legitimidad ante agencias establecidas. El\n
+[g_d0_f2] SVA fue iniciado por Sam Johnson mediante una página de Facebook con 200 invitados; en el\n
+[g_d0_f2] sismo de septiembre de 2010 movilizó ~2,500 voluntarios que retiraron más de 65,000 toneladas\n
+[g_d0_f2] de lodo de licuefacción de las calles y propiedades de Christchurch; tras el sismo de febrero de\n
+[g_d0_f2] 2011 llegó a coordinar un estimado de\n
+[g_d0_f2] . Un equipo núcleo de 6 personas se expandió a 12, cada uno dirigiendo un departamento.\n
+[g_d0_f2] Nissen et al. (2021) identi
+[g_d0_f3] fi
+[g_d0_f2] can los factores que habilitaron esta movilización ("¿por qué?, ¿quién?,\n
+[g_d0_f2] ¿cuándo?, ¿qué?, ¿cómo?"). La lección clave: los grupos emergentes de bajo riesgo y baja\n
+[g_d0_f2] cali
+[g_d0_f3] fi
+[g_d0_f2] cación ("una pala o un carrito de compras") pueden desplegarse masivamente para tareas no\n
+[g_d0_f2] especializadas, pero deben reconocer sus límites (el SVA no pudo actuar en el incendio de Port\n
+[g_d0_f2] Hills porque requería entrenamiento especializado).\n
+[g_d0_f2] McLennan et al. (2021) describen la relación entre grupos emergentes de\n
+[g_d0_f2] voluntarios y agencias establecidas como un "asunto espinoso". La gestión tradicional de\n
+[g_d0_f2] emergencias ha visto a los SV desde una lente "gerencial" enfocada en control, predictibilidad y\n
+[g_d0_f2] responsabilidad legal (liability), lo que genera fricción. La evidencia recomienda pasar de esa\n
+[g_d0_f2] lente de control a una de facilitación.
+
+===== PAGE 6 =====
+[g_d0_f2] El manual de FEMA "Managing Spontaneous\n
+[g_d0_f2] Volunteers in Times of Disaster: The Synergy of Structure" y los materiales del curso G-489\n
+[g_d0_f2] establecen que la coordinación de voluntarios espontáneos es distinta de la de organizaciones\n
+[g_d0_f2] tradicionales de socorro y de la de voluntarios a
+[g_d0_f3] fi
+[g_d0_f2] liados, y suele ubicarse, dentro del Sistema de\n
+[g_d0_f2] Comando de Incidentes (ICS), bajo la Unidad de Suministros de la Sección de Logística.\n
+[g_d0_f2] Recomiendan el concepto de VOAD (Voluntary Organizations Active in Disaster) como\n
+[g_d0_f2] plataforma de coordinación pre-establecida.\n
+[g_d0_f2] La literatura de gestión de SV identi
+[g_d0_f3] fi
+[g_d0_f2] ca cinco áreas prioritarias que deben atenderse:\n
+[g_d0_f2] (revisión\n
+[g_d0_f2] sobre coordinación de voluntarios espontáneos durante desastres y emergencias, 2021). A esto se\n
+[g_d0_f2] suman prácticas operativas concretas:\n
+[g_d0_f2] El principio operativo más\n
+[g_d0_f2] importante extraído de los manuales es:\n
+[g_d0_f2] — si alguien quiere ayudar, primero entra al proceso de gestión de voluntarios. Esto evita\n
+[g_d0_f2] los tres fallos recurrentes: comunicación débil (instrucciones que circulan por cadenas de texto y\n
+[g_d0_f2] se vuelven obsoletas), ausencia de charla de seguridad (los voluntarios ignoran peligros como\n
+[g_d0_f2] escombros, líneas eléctricas caídas, estrés por calor, estructuras inestables) y documentación\n
+[g_d0_f2] pobre (horas, tareas, ubicaciones, lesiones y derivaciones no capturadas).\n
+[g_d0_f2] No es burocracia: soporta seguridad, rendición de cuentas, reembolsos, reportes\n
+[g_d0_f2] a donantes y revisión posterior (after-action review). Las horas de voluntariado documentadas y\n
+[g_d0_f2] los tipos de trabajo pueden respaldar registros de contrapartida de costos.\n
+[g_d0_f2] La seguridad del voluntario es la consideración primaria; nunca se debe pedir\n
+[g_d0_f2] a un voluntario que asuma riesgos personales indebidos o que trabaje más allá del alcance de su\n
+[g_d0_f2] experiencia o entrenamiento. Hay situaciones donde los voluntarios no son apropiados (escenas\n
+[g_d0_f2] de crimen, zonas de riesgo signi
+[g_d0_f3] fi
+[g_d0_f2] cativo para su salud).\n
+[g_d0_f2] La fatiga por compasión (concepto acuñado por\n
+[g_d0_f2] Charles Figley, 1995) combina agotamiento (burnout) y estrés traumático secundario. SAMHSA\n
+[g_d0_f2] recomienda enfocarse en los cuatro componentes centrales de la resiliencia: sueño adecuado,\n
+[g_d0_f2] alimentación sana, actividad física regular y relajación activa; crear un plan de autocuidado;\n
+[g_d0_f2] desarrollar relaciones positivas entre voluntarios; y celebrar logros. La prevención requiere\n
+[g_d0_f2] construir un ambiente organizacional de apoyo y reforzar factores protectores (estudio sobre\n
+[g_d0_f2] voluntarios durante el con
+[g_d0_f3] fi
+[g_d0_f2] namiento por SARS-CoV-2 en España, 2021). Señales de alerta:\n
+[g_d0_f2] desapego, embotamiento, sensación de agobio y agotamiento, más frecuentes en voluntarios de\n
+[g_d0_f2] largo plazo.
+
+===== PAGE 7 =====
+[g_d0_f2] Las necesidades evolucionan por fases. El modelo clásico (National Governor's Association)\n
+[g_d0_f2] distingue mitigación, preparación, respuesta y recuperación; para la fase post-impacto es útil\n
+[g_d0_f2] pensar en tres sub-períodos con curvas de esfuerzo distintas. Kates (1977), "Reconstruction\n
+[g_d0_f2] Following Disaster", propuso una línea de tiempo logarítmica: un período de emergencia\n
+[g_d0_f2] (búsqueda y rescate, horas a días), un período de restauración (restablecimiento de servicios,\n
+[g_d0_f2] semanas a meses) y un período de reconstrucción (meses a años, típicamente ~10 veces el de\n
+[g_d0_f2] restauración). Kates concluyó que
+[g_d0_f2]  
+[g_d0_f4] "un desempeño excepcional en cualquiera de los períodos\n
+[g_d0_f4] mayores de recuperación puede reducir a la mitad el tiempo requerido para esa actividad"
+[g_d0_f2] .\n
+[g_d0_f2] la fase de búsqueda y rescate (donde la convergencia espontánea salva más\n
+[g_d0_f2] vidas) dura poco; rápidamente el trabajo se desplaza a apoyo a sobrevivientes, luego a\n
+[g_d0_f2] recuperación temprana y reconstrucción. La curva de "ayuda vs. necesidad" tiende a un pico\n
+[g_d0_f2] temprano de ayuda (y sobreoferta de voluntarios y donaciones) que decae justo cuando las\n
+[g_d0_f2] necesidades de recuperación de largo plazo persisten. Twigg & Mosel advierten que el reto es\n
+[g_d0_f2] sostener el compromiso en el largo plazo, cuando desaparece la atención mediática.\n
+[g_d0_f2] Tres casos ofrecen lecciones transferibles:
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Surgió horas después del sismo desde el Centro Cultural\n
+[g_d0_f2] Horizontal. Una red de voluntarios (monitores en terreno + "nodos" en computadoras) que,\n
+[g_d0_f2] según su propio sitio,
+[g_d0_f2]  
+[g_d0_f4] "superó las 500 personas"
+[g_d0_f4]  
+[g_d0_f2] en calle y o
+[g_d0_f3] fi
+[g_d0_f2] cinas y
+[g_d0_f2]  
+[g_d0_f4] "a diez días del\n
+[g_d0_f4] terremoto, procesamos más de 20,000 datos, uni
+[g_d0_f5] fi
+[g_d0_f4] camos ocho mapas y lanzamos diez\n
+[g_d0_f4] formularios con los que la ciudadanía reportó derrumbes de edi
+[g_d0_f5] fi
+[g_d0_f4] cios y las necesidades en\n
+[g_d0_f4] centros de acopio y albergues"
+[g_d0_f2] . Empezó con un mapa de Google Maps y evolucionó. Sus\n
+[g_d0_f2] principios auto-declarados son notablemente alineados con la mejor práctica académica:\n
+[g_d0_f2] claridad de roles y responsabilidades pre-establecida, mecanismos de toma de decisiones\n
+[g_d0_f2] prede
+[g_d0_f3] fi
+[g_d0_f2] nidos, liderazgo plural pero con línea de coordinación acordada antes del evento, y\n
+[g_d0_f2] adhesión al Código de Conducta para el socorro en desastres, los estándares Esfera y la\n
+[g_d0_f2] Norma Humanitaria Esencial. Un aprendizaje crítico: "las necesidades informativas\n
+[g_d0_f2] cambiaban día con día" — lo que urgía hace 8 horas ya cambió, por lo que fecharon y horaron\n
+[g_d0_f2] cada pieza de información.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Plataforma de mapeo de crisis de código abierto (originada en Kenia\n
+[g_d0_f2] 2007). Iniciada en la sala de Patrick Meier, escaló según Ushahidi a unos 1,100 voluntarios\n
+[g_d0_f2] que se conectaron a la plataforma de traducción y tradujeron decenas de miles de mensajes\n
+[g_d0_f2] de texto; el código corto SMS 4636 (donado por Digicel) recibió unos 45,000 mensajes de la\n
+[g_d0_f2] población reportando necesidades urgentes. Lecciones: (1) el volumen masivo de reportes\n
+[g_d0_f2] requirió veri
+[g_d0_f3] fi
+[g_d0_f2] cación y triaje manual; (2) OCHA inicialmente vio el mapa como "una mina de\n
+[g_d0_f2] oro de datos, pero demasiado no estructurada y suelta" — la falta de un punto de contacto\n
+[g_d0_f2] formal con las comunidades técnicas y de voluntarios (V&TCs) abrumó a respondedores ya\n
+[g_d0_f2] sobrecargados. Implicación: la información colaborativa necesita una interfaz estructurada\n
+[g_d0_f2] con quienes toman decisiones.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] En México 2017, Twitter fue más e
+[g_d0_f3] fi
+[g_d0_f2] ciente que Facebook para\n
+[g_d0_f2] información en tiempo real, y WhatsApp fue clave pero también aceleró rumores. Diseñar\n
+[g_d0_f2] redundancia de comunicación es un principio CADEM explícito.
+
+===== PAGE 8 =====
+[g_d0_f2] El terremoto (magnitud 8.1) golpeó a las\n
+[g_d0_f2] 7
+[g_d0_f3] �
+[g_d0_f2] 19 del 19 de septiembre. La respuesta o
+[g_d0_f3] fi
+[g_d0_f2] cial fue tardía (el presidente demoró 36 horas). La\n
+[g_d0_f2] población civil tomó las labores de rescate; las primeras acciones organizadas las realizaron\n
+[g_d0_f2] grupos scouts, reforzados por estudiantes de medicina, ingeniería y ciencias; la UNAM suspendió\n
+[g_d0_f2] clases una semana para liberar a estudiantes hacia las brigadas. Surgieron brigadas de rescate (los\n
+[g_d0_f2] "Topos"), comités vecinales, cocinas populares y asambleas de barrio. Al
+[g_d0_f2]  
+[g_d0_f3] fi
+[g_d0_f2] nal, ~4,000 personas\n
+[g_d0_f2] fueron rescatadas por brigadas; se pudo extraer gente con vida hasta diez días después. El legado:\n
+[g_d0_f2] el nacimiento de la sociedad civil organizada mexicana y la creación del Sistema Nacional de\n
+[g_d0_f2] Protección Civil (1986). La lección para Yaracuy: la autoorganización masiva es posible y efectiva\n
+[g_d0_f2] incluso sin (o a pesar de) el Estado, pero deja como tarea pendiente la coordinación para evitar\n
+[g_d0_f2] duplicación y el tránsito hacia demandas de largo plazo (vivienda, reconstrucción).\n
+[g_d0_f2] Cubierto arriba en tecnología cívica. El contraste con 1985 es\n
+[g_d0_f2] instructivo: en 2017 la vía principal de comunicación fueron las redes sociales, lo que habilitó\n
+[g_d0_f2] veri
+[g_d0_f3] fi
+[g_d0_f2] cación distribuida (#Veri
+[g_d0_f3] fi
+[g_d0_f2] cado19S), evaluación remota de daños estructurales por\n
+[g_d0_f2] arquitectos e ingenieros voluntarios (#RevisaMiGrieta, que examinó preliminarmente más de 200\n
+[g_d0_f2] edi
+[g_d0_f3] fi
+[g_d0_f2] cios), y plataformas de vivienda solidaria (@Hogar19mx).\n
+[g_d0_f2] La literatura (por ejemplo, el estudio sobre la comunidad\n
+[g_d0_f2] pesquera de El Morro publicado en IJDRR) identi
+[g_d0_f3] fi
+[g_d0_f2] ca cinco capacidades de resiliencia que\n
+[g_d0_f2] permitieron la supervivencia comunitaria en los primeros días: (i) conocimiento local, (ii) sentido\n
+[g_d0_f2] de comunidad, (iii) capital social, (iv) cooperación y organización, y (v) con
+[g_d0_f3] fi
+[g_d0_f2] anza. Otro hallazgo\n
+[g_d0_f2] relevante: tras décadas en que las organizaciones sociales fueron mínimas o inexistentes (por la\n
+[g_d0_f2] supresión durante la dictadura), el terremoto signi
+[g_d0_f3] fi
+[g_d0_f2] có "el despertar de muchos grupos\n
+[g_d0_f2] emergentes", algunos de los cuales se volvieron ONGs formales. La delegación de la Cruz Roja\n
+[g_d0_f2] Americana (USGS Open-File Report 2011-1053) estudió el caso por su analogía con California.\n
+[g_d0_f2] Lección: priorizar la identi
+[g_d0_f3] fi
+[g_d0_f2] cación y protección de "recursos clave del lugar" y elevar el estatus de\n
+[g_d0_f2] liderazgo de las organizaciones sociales emergentes en la plani
+[g_d0_f3] fi
+[g_d0_f2] cación de reducción de riesgo.\n
+[g_d0_f2] Según Sánchez-Cortez & Simbaña-Tasiguano (2024,
+[g_d0_f2]  
+[g_d0_f4] REDER
+[g_d0_f2] \n
+[g_d0_f2] 8(2):83–98),
+[g_d0_f2]  
+[g_d0_f4] "el saldo fatal del terremoto de Pedernales (Terremoto 16A) se aproximó a 668\n
+[g_d0_f4] víctimas mortales, con un costo de recuperación de alrededor de 3,350 millones de dólares"
+[g_d0_f2] , con\n
+[g_d0_f2] ~1,417 réplicas en un mes y unas 29,000 familias albergadas. La Cruz Roja Ecuatoriana movilizó\n
+[g_d0_f2] más de 800 voluntarios; hubo ejemplos de coordinación cívico-privada (la Asociación de Chefs del\n
+[g_d0_f2] Ecuador instaló un comedor comunitario en el estadio de Pedernales con 60 cocineros voluntarios\n
+[g_d0_f2] rotados semanalmente, capacidad de 2,000 comidas diarias). También hubo problemas de\n
+[g_d0_f2] seguridad (saqueos, fuga de reos), recordando la importancia de la seguridad del voluntario y de la\n
+[g_d0_f2] comunidad. El caso de la comuna Las Gilces ilustra respuesta comunitaria basada en territorio.
+
+===== PAGE 9 =====
+[g_d0_f2] Más de 230,000–250,000 muertos, 1.5 millones sin hogar.\n
+[g_d0_f2] Rahill et al. mostraron que el acceso a recursos de refugio variaba según el capital social: quienes\n
+[g_d0_f2] tenían mejores conexiones con agencias de ayuda accedieron a mejores refugios, creando nuevas\n
+[g_d0_f2] desigualdades entre los desplazados. Los haitianos locales no podían acceder al sistema de\n
+[g_d0_f2] clusters de la ONU (Logbase) sin una a
+[g_d0_f3] fi
+[g_d0_f2] liación previa — "no podían entrar sin registrarse, pero no\n
+[g_d0_f2] podían registrarse sin entrar". Lección directa: los sistemas de coordinación, si no se diseñan con\n
+[g_d0_f2] inclusión, reproducen y ampli
+[g_d0_f3] fi
+[g_d0_f2] can la exclusión.\n
+[g_d0_f2] Existe un cuerpo relevante y\n
+[g_d0_f2] culturalmente cercano: la revista
+[g_d0_f2]  
+[g_d0_f2] (Revista de Estudios Latinoamericanos sobre\n
+[g_d0_f2] Reducción del Riesgo de Desastres, ISSN 0719-8477); el manual
+[g_d0_f2]  
+[g_d0_f2] de "Plan comunitario/\n
+[g_d0_f2] barrial de gestión integral del riesgo de desastres" (con sesiones sobre análisis de organizaciones\n
+[g_d0_f2] comunitarias, planes de fortalecimiento y mecanismos de respuesta); la obra de\n
+[g_d0_f2] sobre gestión del riesgo con participación de "los sujetos del riesgo"; y la tesis de\n
+[g_d0_f2] sobre participación comunitaria en gestión de riesgos,\n
+[g_d0_f2] basada en el caso de Vargas 1999 (Venezuela) — directamente pertinente por contexto nacional.\n
+[g_d0_f2] UNDRR publica un Informe de Evaluación Regional sobre el riesgo de desastres en América\n
+[g_d0_f2] Latina y el Caribe.\n
+[g_d0_f2] El hallazgo más importante para una respuesta autogestionada basada en redes:\n
+[g_d0_f2] El capital social tiene dos caras — "bonding" (vínculos\n
+[g_d0_f2] intragrupo) y "bridging" (puentes entre grupos, concepto de Putnam 2000). La lealtad intragrupo\n
+[g_d0_f2] puede dejar fuera a quienes no pertenecen a la red.\n
+[g_d0_f2] Dos casos documentan el riesgo:
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Human Rights Watch ("After the Deluge", 2005) y el National\n
+[g_d0_f2] Campaign on Dalit Human Rights documentaron que los dalits fueron excluidos de\n
+[g_d0_f2] campamentos de socorro, no recibieron guía adecuada para acceder a ayuda, fueron\n
+[g_d0_f2] obligados a remover cadáveres y escombros con poca o ninguna protección, y en algunos\n
+[g_d0_f2] casos se les impidió sacar agua de tanques donados. La discriminación fue perpetrada\n
+[g_d0_f2] principalmente por grupos de casta superior
+[g_d0_f2]  
+[g_d0_f2] , no por el\n
+[g_d0_f2] gobierno o las agencias. Lección: la ayuda gestionada por la comunidad puede reproducir las\n
+[g_d0_f2] jerarquías y exclusiones pre-existentes.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Como se detalló, el acceso diferencial por capital social y a
+[g_d0_f3] fi
+[g_d0_f2] liación previa.\n
+[g_d0_f2] una respuesta autogestionada debe incorporar salvaguardas deliberadas\n
+[g_d0_f2] de equidad — mapear activamente a los grupos desconectados (adultos mayores solos, personas\n
+[g_d0_f2] con discapacidad, hogares encabezados por mujeres, migrantes, los más pobres), y no depender\n
+[g_d0_f2] solo de que la ayuda "
+[g_d0_f3] fl
+[g_d0_f2] uya" por las redes existentes.
+
+===== PAGE 10 =====
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] Establecer un
+[g_d0_f2]  
+[g_d0_f2] tipo Nishinomiya: no una jerarquía que absorba a\n
+[g_d0_f2] los grupos, sino un punto que conecte grupos emergentes entre sí y con cualquier actor\n
+[g_d0_f2] formal disponible (Protección Civil, Cruz Roja, iglesias, universidades). Designar "brokers" o\n
+[g_d0_f2] enlaces que crucen fronteras entre grupos (boundary-spanners, principio CADEM).
+[g_d0_f3] \n
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] Adoptar explícitamente el principio de
+[g_d0_f2]  
+[g_d0_f2] (Simsa et al. 2019):\n
+[g_d0_f2] dar a cada brigada autonomía operativa, pero proveer estructura mínima — metas claras de\n
+[g_d0_f2] corto plazo, roles de
+[g_d0_f3] fi
+[g_d0_f2] nidos y una línea de coordinación acordada.
+[g_d0_f3] \n
+[g_d0_f3] �
+[g_d0_f2] .
+[g_d0_f2]  
+[g_d0_f2] De
+[g_d0_f3] fi
+[g_d0_f2] nir y comunicar
+[g_d0_f2]  
+[g_d0_f2] antes de asignar tareas (lección\n
+[g_d0_f2] #Veri
+[g_d0_f3] fi
+[g_d0_f2] cado19S).\n
+[g_d0_f2] 4. Abrir un\n
+[g_d0_f2] físico y/o virtual con la regla de oro:\n
+[g_d0_f2] . Registrar: nombre, contacto, habilidades, disponibilidad, y asignar chaleco/\n
+[g_d0_f2] identi
+[g_d0_f3] fi
+[g_d0_f2] cación. 5. Impartir
+[g_d0_f2]  
+[g_d0_f2] antes de cada despliegue (peligros:\n
+[g_d0_f2] réplicas, estructuras inestables, líneas eléctricas, agua contaminada, estrés por calor). La\n
+[g_d0_f2] seguridad del voluntario es innegociable; no asignar tareas fuera de la competencia o el\n
+[g_d0_f2] entrenamiento. 6.
+[g_d0_f2]  
+[g_d0_f2] (horas, tareas, ubicaciones, lesiones, derivaciones) desde el\n
+[g_d0_f2] día uno — sostiene rendición de cuentas y futuras gestiones de recursos. 7. Emparejar habilidades\n
+[g_d0_f2] con necesidades: separar tareas de baja cali
+[g_d0_f3] fi
+[g_d0_f2] cación/bajo riesgo ("pala o carrito", modelo SVA) de\n
+[g_d0_f2] tareas que requieren certi
+[g_d0_f3] fi
+[g_d0_f2] cación (rescate estructural, atención médica).\n
+[g_d0_f2] 8. Montar un\n
+[g_d0_f2] al estilo #Veri
+[g_d0_f3] fi
+[g_d0_f2] cado19S: monitores en terreno + "nodos"\n
+[g_d0_f2] que consolidan. Empezar con herramientas conocidas (Google Maps, WhatsApp, formularios)\n
+[g_d0_f2] antes que con software especializado;
+[g_d0_f2]  
+[g_d0_f2] porque las necesidades\n
+[g_d0_f2] cambian cada pocas horas. 9. Diseñar
+[g_d0_f2]  
+[g_d0_f2] (principio CADEM): no depender\n
+[g_d0_f2] de una sola app. Combatir activamente los rumores/desinformación con veri
+[g_d0_f3] fi
+[g_d0_f2] cación. 10.\n
+[g_d0_f2] Establecer una
+[g_d0_f2]  
+[g_d0_f2] entre el mapeo comunitario y quienes toman decisiones\n
+[g_d0_f2] (lección Ushahidi/OCHA): un punto de contacto claro evita que la información colaborativa sea\n
+[g_d0_f2] ignorada por "no estructurada".\n
+[g_d0_f2] 11.\n
+[g_d0_f2] : rotar voluntarios (modelo de los 60 cocineros rotados semanalmente en Ecuador),\n
+[g_d0_f2] imponer descansos, vigilar señales de alerta en voluntarios de largo plazo, y aplicar los cuatro\n
+[g_d0_f2] pilares de resiliencia (sueño, alimentación, actividad física, relajación). 12.\n
+[g_d0_f2] : mapear proactivamente a los grupos desconectados y priorizarlos; no dejar que la ayuda
+[g_d0_f3] \n
+[g_d0_f3] fl
+[g_d0_f2] uya solo por redes de con
+[g_d0_f3] fi
+[g_d0_f2] anza pre-existentes (lección Haití/Tamil Nadu). Adoptar principios\n
+[g_d0_f2] humanitarios establecidos (imparcialidad, no discriminación; Código de Conducta, Esfera, Norma\n
+[g_d0_f2] Humanitaria Esencial). 13.
+[g_d0_f2]  
+[g_d0_f2] : anticipar que la atención y los\n
+[g_d0_f2] recursos decaerán mientras las necesidades de recuperación persisten; sostener el compromiso y\n
+[g_d0_f2] transformar brigadas emergentes en estructuras duraderas si la comunidad lo desea (modelo\n
+[g_d0_f2] Kobe/SVA/Chile, donde grupos emergentes se volvieron ONGs).
+
+===== PAGE 11 =====
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Si aparece coordinación estatal/formal robusta, el nodo comunitario debe negociar su\n
+[g_d0_f2] "autoridad para operar" (Nissen et al. 2022) e integrarse sin disolverse.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Si la convergencia material (donaciones) satura las vías, activar gestión de donaciones\n
+[g_d0_f2] separada y comunicar públicamente qué se necesita y qué no (evitar el problema\n
+[g_d0_f2] documentado por FEMA de que los suministros para sobrevivientes terminen consumidos\n
+[g_d0_f2] por voluntarios).
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Si el desastre involucra riesgos especializados (colapso estructural masivo, materiales\n
+[g_d0_f2] peligrosos), restringir tareas de SV y priorizar equipos entrenados.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Miller, Le Dé & Hore (2025)\n
+[g_d0_f2] lo proponen a partir de síntesis teórica y casos ilustrativos (Katrina, Canterbury, Nepal); los\n
+[g_d0_f2] propios autores piden programas piloto. Es citable con autoridad como marco teórico\n
+[g_d0_f2] revisado por pares, pero no como práctica probada mediante ensayo.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f2] \n
+[g_d0_f2] — el concepto subyacente (reformular las fases\n
+[g_d0_f2] como un continuo interconectado) sí está en el artículo.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Simsa et al. estudiaron una crisis social (refugiados\n
+[g_d0_f2] 2015), no un terremoto; ellos mismos advierten que el entorno del voluntariado espontáneo\n
+[g_d0_f2] en crisis sociales di
+[g_d0_f3] fi
+[g_d0_f2] ere del de desastres naturales. Los casos de FEMA/EE. UU. asumen un\n
+[g_d0_f2] aparato estatal e ICS que puede no existir en Yaracuy; adáptense los principios, no las\n
+[g_d0_f2] estructuras burocráticas.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Los detalles de México 1985/2017 provienen en parte de\n
+[g_d0_f2] prensa y organizaciones cívicas (IMCO, Ruta Cívica, APC); son consistentes entre sí pero\n
+[g_d0_f2] conviene contrastarlos con literatura académica (por ejemplo, trabajos sobre la sociedad civil\n
+[g_d0_f2] post-1985) para citas formales.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] Las cifras de muertos y voluntarios varían entre fuentes (México 1985:\n
+[g_d0_f2] cifras o
+[g_d0_f3] fi
+[g_d0_f2] ciales vs. no o
+[g_d0_f3] fi
+[g_d0_f2] ciales de hasta 20,000+; Haití: 230,000–250,000+). Úsense con rango.
+[g_d0_f1] \n
+[g_d0_f1] •
+[g_d0_f1]  
+[g_d0_f2] por exclusión explícita del encargo; ese tema\n
+[g_d0_f2] requiere investigación separada.

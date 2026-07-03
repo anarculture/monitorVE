@@ -67,7 +67,7 @@ evento `message.inbound`. O por API:
 ```bash
 curl -X PATCH https://api.zavu.dev/v1/senders/<SENDER_ID> \
   -H "Authorization: Bearer $ZAVU_API_KEY" -H "Content-Type: application/json" \
-  -d '{"webhook":{"url":"https://hook.planvenezuela.org","events":["message.inbound"]}}'
+  -d '{"webhookUrl":"https://hook.planvenezuela.org","webhookEvents":["message.inbound"],"webhookActive":true}'
 ```
 
 ## 5. Verificar E2E
