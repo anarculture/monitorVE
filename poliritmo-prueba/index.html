@@ -1,0 +1,131 @@
+<!-- ponytail: página estática con datos inline (corte manual desde export WA + carpeta VZLA HILFE).
+     Upgrade path: generarla desde src/libro.js cuando el buzón Zavu esté en el grupo. -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Panorama contable — POLiRITMO · Tierra Firme</title>
+  <style>
+    :root { --ink:#1a1a1a; --muted:#666; --line:#ddd; --accent:#0a6b3b; --warn:#a05a00; --bad:#a3231f; }
+    * { box-sizing: border-box; }
+    body { font: 15px/1.5 system-ui, sans-serif; color: var(--ink); max-width: 860px; margin: 0 auto; padding: 24px 16px; }
+    header { border-bottom: 2px solid var(--accent); padding-bottom: 12px; margin-bottom: 16px; }
+    h1 { margin: 0 0 2px; font-size: 22px; }
+    h2 { font-size: 17px; margin: 28px 0 4px; }
+    .sub { color: var(--muted); font-size: 13px; }
+    .resumen { display: flex; gap: 14px; flex-wrap: wrap; margin: 16px 0; }
+    .resumen div { background: #f5f7f6; border-radius: 8px; padding: 10px 14px; min-width: 130px; }
+    .resumen b { display: block; font-size: 19px; color: var(--accent); }
+    .resumen small { color: var(--muted); }
+    .tablewrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 14px; }
+    th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+    td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    tfoot td { font-weight: 700; border-top: 2px solid var(--accent); border-bottom: none; }
+    .ok { color: var(--accent); font-weight: 600; }
+    .warn { color: var(--warn); font-weight: 600; }
+    .bad { color: var(--bad); font-weight: 600; }
+    .nota { background: #fdf6ec; border-left: 3px solid var(--warn); padding: 8px 12px; font-size: 13px; margin: 12px 0; }
+    .foot { color: var(--muted); font-size: 12px; margin-top: 28px; border-top: 1px solid var(--line); padding-top: 10px; }
+    ul { margin: 6px 0; padding-left: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Panorama contable · Grupo POLiRITMO / POLYRIDDIM</h1>
+    <p class="sub">Ayuda humanitaria · Terremoto en Venezuela · Corte: 8 de julio de 2026 (datos verificados hasta el 3 de julio — ver brechas)</p>
+  </header>
+
+  <div class="nota"><b>Cobertura de datos:</b> este corte se armó con el chat del grupo (2-jul → 4-jul 01:29) y la carpeta de comprobantes VZLA HILFE (facturas, transferencias y donaciones hasta el 3-jul). <b>No hay datos del 4 al 8 de julio</b> en ninguna de las dos fuentes; ese tramo aparece como brecha, no como "sin movimientos".</div>
+
+  <h2>Resumen</h2>
+  <div class="resumen">
+    <div><b>Bs 5.366.306,87</b><small>invertido acumulado<br>(4 informes, 26–30 jun)</small></div>
+    <div><b>Bs 58.516,35</b><small>compras en Bs<br>(1–3 jul, con factura)</small></div>
+    <div><b>$ 649,60</b><small>compras en USD<br>(1–3 jul, proveedor EE. UU.)</small></div>
+    <div><b>€ 980,30</b><small>donaciones EUR<br>(1–3 jul)</small></div>
+    <div><b>$ 221,79</b><small>donaciones USD netas<br>(1–3 jul)</small></div>
+  </div>
+
+  <h2>Informes previos ya publicados (contexto)</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Fecha</th><th>Alcance</th><th class="num">Renglones</th><th class="num">Unidades</th><th class="num">Total (Bs)</th></tr></thead>
+    <tbody>
+      <tr><td>26-jun</td><td>Insumos médicos y de rescate</td><td class="num">42</td><td class="num">568</td><td class="num">1.256.560,63</td></tr>
+      <tr><td>27-jun</td><td>Médicos, alimentos y apoyo</td><td class="num">74</td><td class="num">1.385</td><td class="num">1.605.835,31</td></tr>
+      <tr><td>28-jun</td><td>Médicos, higiene y equipos</td><td class="num">48</td><td class="num">275</td><td class="num">832.146,70</td></tr>
+      <tr><td>30-jun</td><td>Antibióticos, medicamentos y equipos</td><td class="num">54</td><td class="num">290</td><td class="num">1.671.764,23</td></tr>
+    </tbody>
+    <tfoot><tr><td colspan="2">Acumulado</td><td class="num">218</td><td class="num">2.518</td><td class="num">5.366.306,87</td></tr></tfoot>
+  </table></div>
+
+  <h2>Entradas · donaciones recibidas 1–3 jul</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Fecha</th><th>Canal</th><th>Detalle</th><th class="num">Monto</th><th>Comprobante</th></tr></thead>
+    <tbody>
+      <tr><td>01-jul</td><td>Wise (SEPA)</td><td>Bonifico Fideuram, donante G. C. — "Emergencia Familiar"</td><td class="num">€ 268,00</td><td class="ok">✓ recibo TRN …9999IT</td></tr>
+      <tr><td>01-jul</td><td>Zelle</td><td>Donación a cuenta receptora del grupo</td><td class="num">$ 40,00</td><td class="ok">✓ conf. j6r5…m7e4</td></tr>
+      <tr><td>02-jul</td><td>Zelle</td><td>Memo "Ayuda Vzla"</td><td class="num">$ 40,00</td><td class="ok">✓ conf. WFCT…NRWV</td></tr>
+      <tr><td>02-jul</td><td>Wise (Santander)</td><td>Donante C. P. C. H.</td><td class="num">€ 50,00</td><td class="ok">✓ ref. 0049…CCDF</td></tr>
+      <tr><td>02-jul</td><td>PayPal</td><td>A cuenta receptora Z. C. (neto; donante pagó $2,17 de tarifa)</td><td class="num">$ 109,07</td><td class="ok">✓ ID 64H4…373L</td></tr>
+      <tr><td>02-jul</td><td>PayPal</td><td>A cuenta receptora Z. C. (neto; tarifa $2,17)</td><td class="num">$ 32,72</td><td class="ok">✓ ID 9HG6…6116</td></tr>
+      <tr><td>03-jul</td><td>Transferencia internacional (KBC)</td><td>5.º pago de donante recurrente G. P. A. — "transferencia insumos médicos"</td><td class="num">€ 662,30</td><td class="ok">✓ estado de cuenta KBC 03-07</td></tr>
+    </tbody>
+    <tfoot><tr><td colspan="3">Total entradas 1–3 jul</td><td class="num">€ 980,30 + $ 221,79</td><td></td></tr></tfoot>
+  </table></div>
+
+  <h2>Salidas · compras 1–3 jul</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Fecha</th><th>Proveedor / concepto</th><th class="num">Cant.</th><th class="num">Monto</th><th>Comprobante</th></tr></thead>
+    <tbody>
+      <tr><td>02-jul</td><td>Panificadora Isnotu — pan sándwich americano</td><td class="num">30</td><td class="num">Bs 27.101,47</td><td class="ok">✓ factura 0000125658</td></tr>
+      <tr><td>02-jul</td><td>Panificadora Isnotu — pan sándwich cuadrado</td><td class="num">16</td><td class="num">Bs 31.414,88</td><td class="ok">✓ factura 0000125659</td></tr>
+      <tr><td>02-jul</td><td>Xanthos Safety LLC (EE. UU.) — equipo de seguridad/rescate</td><td class="num">—</td><td class="num">$ 500,00</td><td class="warn">△ pago Zelle WFCT…PNF3J; falta factura/orden</td></tr>
+      <tr><td>02-jul</td><td>Xanthos Safety LLC (EE. UU.) — "payment"</td><td class="num">—</td><td class="num">$ 149,60</td><td class="warn">△ pago Zelle JPM9…akbx; falta factura/orden</td></tr>
+      <tr><td>03-jul</td><td>Mosquetones para rescatistas (chat: "hoy compraron unos")</td><td class="num">?</td><td class="num">s/d</td><td class="bad">✗ sin comprobante ni monto</td></tr>
+      <tr><td>03-jul</td><td>Spray impermeabilizante Nikwax Softshell Proof (prueba lluvias)</td><td class="num">1</td><td class="num">s/d</td><td class="bad">✗ solo foto del producto</td></tr>
+    </tbody>
+    <tfoot><tr><td colspan="3">Total documentado 1–3 jul</td><td class="num">Bs 58.516,35 + $ 649,60</td><td></td></tr></tfoot>
+  </table></div>
+
+  <h2>Movimientos internos · fondeo hacia Bs (no son gasto)</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Fecha</th><th>Movimiento</th><th class="num">Monto</th><th>Comprobante</th></tr></thead>
+    <tbody>
+      <tr><td>01-jul</td><td>Pago móvil BBVA Provincial → operador de compras en VE (Banesco)</td><td class="num">Bs 145.400,00</td><td class="ok">✓ ref. 000005182</td></tr>
+      <tr><td>01-jul</td><td>Banesco → Venezolano de Crédito</td><td class="num">Bs 200.000,00</td><td class="warn">△ ref. 0618…4090 — quedó "en proceso", confirmar acreditación</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Necesidades detectadas en el chat (2–3 jul)</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Necesidad</th><th>Dónde</th><th>Estado al corte</th></tr></thead>
+    <tbody>
+      <tr><td>Grúa telescópica + materiales (12 personas bajo escombros)</td><td>Edif. Arichuna, Los Corales, La Guaira</td><td class="bad">URGENTE — sin resolver en el chat</td></tr>
+      <tr><td>30 almuerzos para refugio</td><td>U.E. Colegio Luz y Vida, Av. Sur 2, Caracas</td><td class="warn">Buscando proveedor (3-jul)</td></tr>
+      <tr><td>Insumos para pueblos sin suministro: medicinas (tensión, asma, antibióticos, antialérgicos, pediátricas), víveres, aseo, pañales, sábanas + gasolina</td><td>Carayaca, Caruao, San Esteban, La Sabana</td><td class="warn">Recolección abierta; 2 camionetas disponibles</td></tr>
+      <tr><td>Mosquetones para rescatistas en rapel</td><td>La Guaira</td><td class="warn">Compra parcial reportada (ver salidas)</td></tr>
+      <tr><td>Laptop en desuso con acceso a internet</td><td>operación del grupo</td><td class="warn">Pedido abierto</td></tr>
+      <tr><td>Ropa para recién nacido</td><td>repost IG</td><td class="warn">Urgente 3-jul; sin cierre en el chat</td></tr>
+      <tr><td>2 colchones inflables matrimoniales (oferta)</td><td>→ Catia La Mar</td><td class="ok">Encaminado con transporte aliado</td></tr>
+      <tr><td>Colchonetas (oferta de miembro)</td><td>entre miembros</td><td class="ok">Cubierto en el grupo</td></tr>
+      <tr><td>Entrega realizada: higiene personal, body bags, pañales, juguetes, comida para perros</td><td>Catia La Mar / Playa Verde</td><td class="ok">Entregado 3-jul (reporte en chat, sin acta de entrega)</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2>Brechas contables al 8-jul</h2>
+  <ul>
+    <li class="bad">Sin datos del 4 al 8 de julio: el export del chat corta el 4-jul 01:29 y el buzón automático aún no está en el grupo.</li>
+    <li class="warn">Compras a Xanthos Safety ($649,60) sin factura ni orden de compra — solo comprobantes de pago.</li>
+    <li class="warn">Mosquetones y spray Nikwax sin monto ni comprobante.</li>
+    <li class="warn">Transferencia de Bs 200.000 quedó "en proceso" — confirmar acreditación.</li>
+    <li class="warn">Informe formal de compras del 02-jul no generado (las 2 facturas Isnotu ya están archivadas).</li>
+    <li>Entradas en 3 monedas (Bs/USD/EUR): falta fijar la tasa de consolidación para un balance único.</li>
+  </ul>
+
+  <p class="foot">Borrador interno del grupo · NO es fuente oficial · Generado por Tierra Firme a partir del chat del grupo y la carpeta de comprobantes; un humano debe verificar antes de difundir. Nombres reducidos a iniciales y referencias truncadas: los comprobantes completos quedan en la carpeta interna del grupo, no en esta página.</p>
+</body>
+</html>
